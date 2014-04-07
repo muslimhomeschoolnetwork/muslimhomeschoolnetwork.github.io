@@ -1,12 +1,6 @@
 ---
 layout: default
-title: Assembling Your Static App Stack
-prev:
-  label: Thinking With Services
-  url: /articles/thinking-with-services
-next:
-  label: Routing URLs in Static Apps
-  url: /articles/routing-urls-in-static-apps
+title: Frequently Asked Questions
 ---
 
 Once you've decided to build a static web application, there are still several important choices
