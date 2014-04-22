@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Mission and Vision
+category: About
 ---
 
 Once you've decided to build a static web application, there are still several important choices

@@ -3,6 +3,10 @@ layout: default
 title: Calendar of Events
 ---
 
+{% for event in site.categories.calendar %}
+    {{event.title}} - {{event.venue}}
+{% endfor %}
+
 Once you've decided to build a static web application, there are still several important choices
 to be made in terms of your application's technology stack. While a simple static web application
 can be written entirely inside a single HTML file (with embedded CSS and JavaScript), complex

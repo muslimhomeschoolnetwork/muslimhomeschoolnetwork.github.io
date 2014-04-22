@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact Us
+category: About
 ---
 
 Once you've decided to build a static web application, there are still several important choices

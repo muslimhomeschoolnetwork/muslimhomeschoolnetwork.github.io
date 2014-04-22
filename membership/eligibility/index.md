@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Eligibility
+category: Membership
 ---
 
 Once you've decided to build a static web application, there are still several important choices
