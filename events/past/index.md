@@ -9,11 +9,11 @@ published: true
 Alhamdulillah, MHN had a wide variety of events and activities organized for the Muslim homeschooling community last year. Here is a look at our year in review.
 
 **Islamic:**
-- Ramadan Prep with Sh. Furhan Zubairi, Sr. Yafa Aweinat, Sr. Nadya Aweinat
-- Hajj Re-enactment with Br. Wisam Sharieff
-- Tafseer classes with Sr. Yafa Aweinat
-- Shamaa’il class with Br. Hassan Elwan
-- Intensive hike appreciating Allah’s creation with Sr. Nadya Aweinat
+* Ramadan Prep with Sh. Furhan Zubairi, Sr. Yafa Aweinat, Sr. Nadya Aweinat
+* Hajj Re-enactment with Br. Wisam Sharieff
+* Tafseer classes with Sr. Yafa Aweinat
+* Shamaa’il class with Br. Hassan Elwan
+* Intensive hike appreciating Allah’s creation with Sr. Nadya Aweinat
 
 **Educational:**
 - Science Festival: In the footsteps of Ibn Al-Haythem (architect of Scientific Method) with Sh. Mustafa Umar
