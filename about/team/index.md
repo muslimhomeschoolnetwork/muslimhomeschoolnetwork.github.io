@@ -3,11 +3,19 @@ layout: default
 title: About the MHN Team
 ---
 
-Once you've decided to build a static web application, there are still several important choices
-to be made in terms of your application's technology stack. While a simple static web application
-can be written entirely inside a single HTML file (with embedded CSS and JavaScript), complex
-applications benefit greatly from the wide variety of tools and services available for static
-web development. Static web applications generally utilize some combination of the following
-categories of tools:
+## Board
 
-### Preprocessor Languages
+* [President](mailto:info@muslimhomeschoolnetwork.com) - Asma Ahmad
+* [Treasurer](mailto:treasurer@muslimhomeschoolnetwork.org) - Misbah Bramonth
+* [Secretary](mailto:info@muslimhomeschoolnetwork.org) - Farhaana Haque
+* [Islamic Activities](mailto:islamic@muslimhomeschoolnetwork.org) - Fatima Khan
+* [Educational Activities](mailto:education@muslimhomeschoolnetwork.org) - Hana Khatib
+* [Leadership Activities](mailto:leadership@muslimhomeschoolnetwork.org) - Qanita Mohiuddin
+* [Social Activities](mailto:social@muslimhomeschoolnetwork.org) - Saadia Parekh
+* [Parent Enrichment](mailto:parentenrichment@muslimhomeschoolnetwork.org) - Shahnila Ahmad
+* [Website and Marketing](mailto:moderator@muslimhomeschoolnetwork.org) - Summar Yamout
+* [Support and Outreach](mailto:support@muslimhomeschoolnetwork.org) - Teyebeh Bashir
+
+## Advisors
+
+* Mubashera Chaudhry
