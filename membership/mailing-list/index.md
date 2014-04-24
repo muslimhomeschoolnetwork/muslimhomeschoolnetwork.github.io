@@ -2,13 +2,18 @@
 layout: default
 title: Join our mailing list
 category: Membership
+published: true
 ---
 
-Once you've decided to build a static web application, there are still several important choices
-to be made in terms of your application's technology stack. While a simple static web application
-can be written entirely inside a single HTML file (with embedded CSS and JavaScript), complex
-applications benefit greatly from the wide variety of tools and services available for static
-web development. Static web applications generally utilize some combination of the following
-categories of tools:
+## MHN Email List
+MHN’s email list serves the homeschooling Muslims in the southern California\* area. Subscription is open to mothers who are:
 
-### Preprocessor Languages
+1. current homeschoolers
+2. seriously considering homeschooling\*\*
+3. those mothers who have homeschooled in the past and are available as a resource for homeschoolers
+
+\* Southern California includes Orange, LA, Riverside, San Bernardino, and San Diego counties.
+
+\*\*To ensure that the list maintains its focus on serving current and future homeschoolers, those new list members who are seriously considering homeschooling and have not yet started are required to attend at least one MHN event during the school year; we highly recommend our 101 seminars.
+
+Remember, you must fill out the [membership form](https://docs.google.com/forms/d/1kV8_aWOXPsqbrg8RO_Hg0L6kFPaGuJZLMDeafdSIBi4/viewform) in order to join the MHN email list!
