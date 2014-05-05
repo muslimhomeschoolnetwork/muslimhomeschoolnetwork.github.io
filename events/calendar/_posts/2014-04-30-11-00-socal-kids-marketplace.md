@@ -1,9 +1,10 @@
 ---
 layout: event
-title:  "SoCal Kids Marketplace"
-date:   2014-04-30 11:00 am - 2:00 pm
-venue:  Mountain View Park
-address: 24000 Dylan Ave, Lake Forest, California 92630
+title: SoCal Kids Marketplace
+date: "2014-05-14 11:00 am - 2:00 pm"
+venue: Mountain View Park
+address: "24000 Dylan Ave, Lake Forest, California 92630"
+published: true
 ---
 
 SoCal Kids Marketplace (where homeschool kids buy, sell, and trade)
@@ -12,7 +13,7 @@ Come join us and participate in MHN and SOC Homeschooler's first SoCal Kids Mark
 
 WHO: All Homeschoolers
 
-WHEN: Wednesday, April 30, 2014
+WHEN: Wednesday, May 14, 2014
 11:00am-2:00pm
 
 WHERE: Mountain View Park
