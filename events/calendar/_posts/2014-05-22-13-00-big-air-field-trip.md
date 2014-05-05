@@ -11,12 +11,13 @@ The premier indoor trampoline park in South Orange County offers high-flying fun
 
 **WHO**: All Ages  
 
-**WHEN**: Thursday, May 22  
+**WHEN**: Thursday, May 22, 2014    
 1:00pm - 3:00pm  
 
 \*This is an hourly paid field trip, if you sign up and pay for 1 hr, then you may not jump after 2:00pm, but if you pay the 2 hr fee, then you can jump for the entire two hours we have scheduled.  
 \*\*You must prepay the number of hours, you cannot add hours the day of as we have to submit the payment as one payment.  
-\*\*\*Check-in time is at 12:30pm to avoid delay in start time and to make sure all waivers have been turned in. The earlier and faster sign in, the sooner the jump time.
+\*\*\*Check-in time is at 12:30pm to avoid delay in start time and to make sure all waivers have been turned in. The earlier and faster sign in, the sooner the jump time. Please fill out the [waiver](https://bigair.pfestore.com/waiver/) for Big Air Trampoline Park.
+\*\*\*\* We will need a minimum of 15 participants for us to hold the field trip.
 
 **WHERE**:  
 Big Air Trampoline Park  
