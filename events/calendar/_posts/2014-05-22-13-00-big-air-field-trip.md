@@ -10,6 +10,7 @@ published: true
 The premier indoor trampoline park in South Orange County offers high-flying fun for the whole family where you can literally bounce off the walls! The 17,000 square feet of jumping surfaces include trampoline dodgeball courts, slam dunk courts, foam pits, launch pads, a rock climbing wall, battle beam and massive freestyle court.
 
 WHO: All Ages  
+
 WHEN: Thursday, May 22  
 1:00pm - 3:00pm  
 
