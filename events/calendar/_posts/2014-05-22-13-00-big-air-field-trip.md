@@ -29,6 +29,6 @@ $13 for 2 hours
 2 & under are free with the paid admission of an adult but will need a waiver and jump sticker just like all the other guests.  
 Everyone who is going to jump must pay, including adults  
 
-**<span color="red">Deadline to sign-up and pay is May 15, 2014!</span>**
+**<span style="color: red">Deadline to sign-up and pay is May 15, 2014!</span>**
 
 <script type="text/javascript" src="http://form.jotform.us/jsform/41238920603146"></script>
