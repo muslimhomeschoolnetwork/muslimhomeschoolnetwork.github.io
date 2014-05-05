@@ -20,7 +20,7 @@ WHERE: Mountain View Park
 24061 Dylan Ave
 Lake Forest, CA 92630
 
-Sign up here to become a vendor: https://docs.google.com/forms/d/1khBc2Ef1sTEGSq1OIxgzB78ge8SrVuGnity0qh2Xtkk/viewform
+Sign up [here](https://docs.google.com/forms/d/1khBc2Ef1sTEGSq1OIxgzB78ge8SrVuGnity0qh2Xtkk/viewform) to become a vendor.
 
 -Please bring your own table or blankets, as there are not many tables available at the park.
 -Setup time will be at 10:30am.
