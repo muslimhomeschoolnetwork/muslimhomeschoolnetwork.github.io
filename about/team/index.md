@@ -1,21 +1,16 @@
 ---
 layout: default
 title: About the MHN Team
+published: true
 ---
 
 ## Board
 
 * [President](mailto:info@muslimhomeschoolnetwork.com) - Asma Ahmad
+* [Vice President](mailto:info@muslimhomeschoolnetwork.org) - Shahnila Ahmad
 * [Treasurer](mailto:treasurer@muslimhomeschoolnetwork.org) - Misbah Bramonth
-* [Secretary](mailto:info@muslimhomeschoolnetwork.org) - Farhaana Haque
+* [Secretary](mailto:moderator@muslimhomeschoolnetwork.org) - Summar Yamout
 * [Islamic Activities](mailto:islamic@muslimhomeschoolnetwork.org) - Fatima Khan
-* [Educational Activities](mailto:education@muslimhomeschoolnetwork.org) - Hana Khatib
-* [Leadership Activities](mailto:leadership@muslimhomeschoolnetwork.org) - Qanita Mohiuddin
-* [Social Activities](mailto:social@muslimhomeschoolnetwork.org) - Saadia Parekh
-* [Parent Enrichment](mailto:parentenrichment@muslimhomeschoolnetwork.org) - Shahnila Ahmad
-* [Website and Marketing](mailto:moderator@muslimhomeschoolnetwork.org) - Summar Yamout
 * [Support and Outreach](mailto:support@muslimhomeschoolnetwork.org) - Teyebeh Bashir
-
-## Advisors
-
-* Mubashera Chaudhry
+* [Enrichment](mailto:education@muslimhomeschoolnetwork.org) - Misbah Bramonth
+* [Website and Marketing](mailto:moderator@muslimhomeschoolnetwork.org) - Summar Yamout
