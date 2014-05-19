@@ -12,5 +12,5 @@ published: true
 * [Secretary](mailto:moderator@muslimhomeschoolnetwork.org) - Summar Yamout
 * [Islamic Activities](mailto:islamic@muslimhomeschoolnetwork.org) - Fatima Khan
 * [Support and Outreach](mailto:support@muslimhomeschoolnetwork.org) - Teyebeh Bashir
-* [Enrichment](mailto:education@muslimhomeschoolnetwork.org) - Misbah Bramonth
+* [Enrichment](mailto:enrichment@muslimhomeschoolnetwork.org) - Misbah Bramonth
 * [Website and Marketing](mailto:moderator@muslimhomeschoolnetwork.org) - Summar Yamout
