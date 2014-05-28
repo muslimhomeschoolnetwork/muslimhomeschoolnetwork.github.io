@@ -11,7 +11,7 @@
     {% if page.title %}
     <title>
         {% if page.category %}
-        {{page.category}}: 
+        {{page.category}}:
         {% endif %}
         {{ page.title}}
     </title>
@@ -31,18 +31,7 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    <style type="text/css">
-      @media (min-width: 992px) {
-        #overlap {
-          height: 70px;
-        }
-
-        #overlap .thumbnail {
-          position: absolute;
-          z-index: 100;
-        }
-      }
-    </style>
+    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   </head>
 
   <body role="document">
