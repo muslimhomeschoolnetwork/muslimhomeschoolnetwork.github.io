@@ -4,7 +4,7 @@ title: For the Love of Learning
 time: 9:00 am - 4:00 pm
 venue: ACCESS California Services
 address: "631 S. Brookhurst St #107, Anaheim, CA 92804"
-published: true
+published: false
 ---
 
 <script type="text/javascript" src="http://form.jotformpro.com/jsform/41646743449968"></script>
