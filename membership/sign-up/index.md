@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sign-up
+title: Join our mailing list
 category: Membership
 published: true
 ---
