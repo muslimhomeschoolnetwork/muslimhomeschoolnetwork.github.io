@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Frequently Asked Questions
----
+title: Resources
 
 ### Coming Soon!
