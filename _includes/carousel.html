@@ -1,41 +1,37 @@
 <!-- Carousel
 ================================================== -->
 <div id="this-carousel-id" class="carousel slide" data-ride="carousel"><!-- class of slide for animation -->
-   <!-- Indicators -->
-  <ol class="carousel-indicators">
-    <li data-target="#this-carousel-id" data-slide-to="0" class="active"></li>
-    <li data-target="#this-carousel-id" data-slide-to="1"></li>
-  </ol>
+  <!-- Indicators -->
+
+  {% if site.data.carousels.size > 1 %}
+    <ol class="carousel-indicators">
+      {% for carousel in site.data.carousels %}
+        <li data-target="#this-carousel-id" 
+            {% if forloop.first %} class="active" {% endif %}
+            data-slide-to="{{ forloop.index0 }}"></li>
+      {% endfor %}
+    </ol>
+  {% endif %}
 
   <div class="carousel-inner">
-    <div class="item active"><!-- class of active since it's the first item -->
-      <a href="/events/calendar/2014/06/16/10-30-welcome-ramadan-2014/">
-         <img src="http://thesmashable.com/wp-content/uploads/2012/07/Ramadan3.jpg" alt="" />
-         <div class="carousel-caption">
-             <h2>Welcome Ramadan 2014</h2>
-             <h3 class="hidden-xs">Monday, June 16, 2014 10:30am - 12:20pm</h3>
-             <h3 class="hidden-xs">Masjid Al-Hedaya</h3>
-         </div>
+    {% for carousel in site.data.carousels %}
+    <div class="item{% if forloop.first %} active{% endif %}">
+      <a href="{{carousel.href}}">
+         <img src="{{carousel.image}}" alt="" />
       </a>
     </div>
-    <div class="item">
-      <a href="/events/calendar/2014/08/09/9-00-for-the-love-of-learning/">
-         <img src="/images/loveoflearningbanner.jpg" alt="" />
-         <div class="carousel-caption">
-             <h2>For the Love of Learning</h2>
-             <h3 class="hidden-xs">Saturday, August 9, 2014 9:00am - 4:00pm</h3>
-             <h3 class="hidden-xs">ACCESS California Services</h3>
-         </div>
-      </a>
-    </div>
+    {% endfor %}
   </div><!-- /.carousel-inner -->
 
   <!-- Controls -->
-  <a class="left carousel-control" href="#this-carousel-id" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left"></span>
-  </a>
-  <a class="right carousel-control" href="#this-carousel-id" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right"></span>
-  </a>
+  {% if site.data.carousels.size > 1 %}
+    <a class="left carousel-control" href="#this-carousel-id" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+    </a>
+    <a class="right carousel-control" href="#this-carousel-id" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+    </a>
+  {% endif %}
+
 </div>
 <!-- /.carousel -->
