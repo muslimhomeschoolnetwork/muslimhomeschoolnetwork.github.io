@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Islamic Studies Resources
+title: Write for us!
 ---
 
 ### Coming Soon
