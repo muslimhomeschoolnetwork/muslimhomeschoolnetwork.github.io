@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Resources
+title: resources
 
 ### Coming Soon!
