@@ -40,8 +40,8 @@ The book, _For the Love of Learning_, will also be availabe for only $10 for att
 
 LOLIPOP seminar objectives:
 
-* Parents will gain information about psychological development, learning styles and personalities, focusing on children from 6-14 years old
-* Parents will understand how psychological development, learning styles, and personalities impact on learning, and they will be inspired to research and learn more about their specific children 
+* Parents will gain information about psychological development, learning styles and personalities, focusing on children from 6-14 years old.
+* Parents will understand how psychological development, learning styles, and personalities impact on learning, and they will be inspired to research and learn more about their specific children. 
 * Parents will be empowered with knowledge about psychological development, learning styles, and personalities, so they can teach effectively and advocate effectively for their kids with other teachers, moms, and coaches.
 
 Meet the speaker:  
