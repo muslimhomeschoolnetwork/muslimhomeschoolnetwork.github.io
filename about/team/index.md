@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About the MHN Team
+title: Our Team
 published: true
 ---
 
