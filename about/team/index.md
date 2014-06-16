@@ -4,7 +4,6 @@ title: Our Team
 published: true
 ---
 
-## Board
 
 * [President](mailto:info@muslimhomeschoolnetwork.com) - Asma Ahmad
 * [Vice President](mailto:info@muslimhomeschoolnetwork.org) - Shahnila Ahmad
