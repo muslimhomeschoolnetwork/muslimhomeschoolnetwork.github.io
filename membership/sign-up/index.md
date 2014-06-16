@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Join our mailing list
 category: Membership
 published: true
 ---
@@ -27,6 +26,5 @@ The survey is required to renew your subscription/join the MHN email list.
 Your subscription to our email list will start after your request is approved.  
 
 NOTE: MHN respects your privacy. Your information will not be shared with any third party, and the combined results will be used to better serve the MHN community, insha'Allah.
-
 <script type="text/javascript" src="http://form.jotform.us/jsform/41378137793161"></script>
----
+
