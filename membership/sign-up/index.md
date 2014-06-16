@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Sign-up
 category: Membership
 published: true
 ---
