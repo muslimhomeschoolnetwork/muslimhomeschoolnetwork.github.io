@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Eligibility
+title: FAQs
 category: Membership
 published: true
 ---
