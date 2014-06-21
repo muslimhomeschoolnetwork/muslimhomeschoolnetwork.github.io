@@ -8,13 +8,26 @@ extra_js: |
     <script src="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/1.6.4/fullcalendar.min.js"></script>
     <script type="text/javascript">
     $(function () {
-        $('#calendar').fullCalendar({});
+        $('#calendar').fullCalendar(window.calendarOptions);
     });
     </script>
 ---
 
-{% for event in site.categories.calendar %}
-    {{event.title}} - {{event.venue}}
-{% endfor %}
+
+<script type="text/javascript">
+    window.calendarOptions = {
+        events: [
+            {% for event in site.categories.calendar %}
+            {
+                title: {{event.title | jsonify }},
+                start: {{event.date | jsonify }},
+                end: "",
+                url: {{event.url | jsonify }}
+            }
+            {% if forloop.last == false %},{% endif %}
+            {% endfor %}
+        ]
+    };
+</script>
 
 <div id="calendar"></div>
