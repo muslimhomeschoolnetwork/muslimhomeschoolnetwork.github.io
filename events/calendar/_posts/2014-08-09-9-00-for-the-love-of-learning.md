@@ -47,6 +47,6 @@ LOLIPOP seminar objectives:
 #####Meet the speaker:  
 Amy Edwards is the founder of SDLAA. She has a B.A. in Literature, a M.A. in Education,  and over twenty years experience teaching children and adults of all ages. She teaches classes in Language Arts & History and writes curriculum for both live classes and independent classes. Amy has been homeschooling her three children for over ten years. She has worked individually with home schooled children from 8-18 years old, as well as taught classes for home schooled students in Literature, Writing, and History
  
-Any questions or comments, please contact us at info@muslimhomeschoolnetwork.com
+Any questions or comments, please contact us at [info@muslimhomeschoolnetwork.com](mailto:info@muslimhomeschoolnetwork.com)
 
 <script type="text/javascript" src="http://form.jotformpro.com/jsform/41646743449968"></script>
