@@ -12,7 +12,7 @@ In 2005, a handful of Muslim mothers in Orange County who had started homeschool
  
 ###2. Which homeschooling philosophy does MHN follow?
 
-MHN does not subscribe to any particular homeschooling institution or philosophy: rather it brings together mothers from diverse homeschooling backgrounds who may be registered privately, with charters, or with public homeschool institutions.
+MHN does not subscribe to any particular homeschooling institution or philosophy: rather it brings together mothers from diverse homeschooling backgrounds who may be registered privately, with charters, or with public homeschool institution.
  
 ###3. Is MHN a co-op?
 
@@ -28,13 +28,16 @@ You may send an email to [info@muslimhomeschoolnetwork.com](mailto:info@muslimho
 
 ###6. Who can subscribe to the MHN email list and how do I become a member?
 
-MHN's email list serves the homeschooling Muslims in the southern California* area. Subscription is open to mothers who are:
-·      current homeschoolers
-·      seriously considering homeschooling**
-·      those mothers who have homeschooled in the past and are available as a resource for homeschoolers
-\* Southern California includes Orange, LA, Riverside, San Bernardino, and San Diego counties. 
+MHN’s email list serves the current and future homeschooling Muslims in the southern California\* area. Subscription is open to mothers who are:
 
-*\*\To ensure that the list maintains its focus on serving current and future homeschoolers, those new list members who are seriously considering homeschooling and have not yet started are requested to attend at least one MHN event during the school year; we highly recommend our 101 seminars. 
+1. current homeschoolers
+2. seriously considering homeschooling\*\*
+3. those mothers who have homeschooled in the past and are available as a resource for homeschoolers
+4. have homeschooled in the past and are available as a resource for homeschoolers
+
+\* Southern California includes Orange, LA, Riverside, San Bernardino, and San Diego counties.
+
+\*\*To ensure that the list maintains its focus on serving current and future homeschoolers, those new list members who are seriously considering homeschooling and have not yet started are required to attend at least one MHN event during the school year; we highly recommend our 101 seminars.
 
 ###7. I do not plan to homeschool but would like to take part in MHN hosted events for my children. Can I still become a member of MHN?
 
