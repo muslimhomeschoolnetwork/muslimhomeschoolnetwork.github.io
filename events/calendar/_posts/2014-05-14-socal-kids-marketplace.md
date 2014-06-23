@@ -1,9 +1,11 @@
 ---
 layout: event
 title: SoCal Kids Marketplace
-date: "2014-05-14 11:00 am - 2:00 pm"
+start: "11:00"
+end: "14:00"
 venue: Mountain View Park
 address: "24000 Dylan Ave, Lake Forest, California 92630"
+expired: true
 published: true
 ---
 

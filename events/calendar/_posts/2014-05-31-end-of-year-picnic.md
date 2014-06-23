@@ -1,15 +1,17 @@
 ---
 layout: event
 title: End of the Year Picnic
-date: "2014-05-31 3:00 pm - 7:00 pm"
+start: "15:00"
+end: "19:00"
 venue: Cedar Grove Park
 address: "11385 Pioneer Rd, Tustin, CA 92782 "
-published: false
+expired: true
+published: true
 ---
 
 Join us to celebrate the End of the Year Picnic!
 
-**WHO**: Everyone 
+**WHO**: Everyone
 
 **WHEN**: Saturday, May 31  
 3:00pm - 7:00pm  
@@ -17,5 +19,4 @@ Join us to celebrate the End of the Year Picnic!
 **WHERE**:  
 Cedar Grove Park  
 11385 Pioneer Rd  
-Tustin, CA 92782 
-
+Tustin, CA 92782
