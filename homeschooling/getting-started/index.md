@@ -53,6 +53,6 @@ Throughout this whole process, don’t forget the most important thing: seeking 
 
 
 
-For further support please contact outreach@muslimhomeschoolnetwork.com
+For further support please contact [outreach@muslimhomeschoolnetwork.com](mailto:outreach@muslimhomeschoolnetwork.com)
 
 
