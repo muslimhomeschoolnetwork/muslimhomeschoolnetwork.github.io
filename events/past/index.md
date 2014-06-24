@@ -48,6 +48,14 @@ Alhamdulillah, MHN had a wide variety of events and activities organized for the
 *	Chai Time every other month for mothers
 *	Islamicizing your Curriculum with Sr. Omaira
 
+**Member-led Events:**
+
+* Girl's Book Club
+* Crystal Cove Field Trip
+* Arabic Class
+* Science Co-op
+* Police Station Visit
+
 ### Past Events for 2012-2013
 
 **Islamic:**
