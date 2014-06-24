@@ -5,10 +5,19 @@ layout: default
 {% include carousel.html %}
 
 <div class="row">
+  <div class="col-sm-8">
+      {% for post in site.categories.blog limit:2 %}
+          <h2>{{ post.title }}</h2>
+          <p>
+              {{ post.content }}
+          </p>
+      {% endfor %}
+  </div>
+
+  <!-- /.col-sm-4
   <div class="col-sm-4">
-  </div><!-- /.col-sm-4 -->
-  <div class="col-sm-4">
-  </div><!-- /.col-sm-4 -->
+  </div> /.col-sm-4 -->
+
   <div class="col-sm-4">
       <h3>Events</h3>
     <div class="list-group">
