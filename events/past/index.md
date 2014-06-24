@@ -48,7 +48,6 @@ Alhamdulillah, MHN had a wide variety of events and activities organized for the
 *	Islamicizing your Curriculum with Sr. Omaira
 
 ### Past Events for 2012-2013
-Alhamdulillah, MHN had a wide variety of events and activities organized for the Muslim homeschooling community last year. Here is a look at our year in review.
 
 **Islamic:**
 
