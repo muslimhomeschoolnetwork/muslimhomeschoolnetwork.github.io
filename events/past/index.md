@@ -27,7 +27,9 @@ Alhamdulillah, MHN had a wide variety of events and activities organized for the
 
 * Homeschooling 101 Seminar at Chino Valley Islamic Center
 * One-on-one support throughout the year for new homeschoolers
+
 **Volunteer:**
+
 * Homeless Feeding at Mary’s Kitchen
 * Ramadan Toy Drive
 * CAIR-LA visit
