@@ -1,10 +1,8 @@
 ---
 layout: default
-title: 
+title: About MHN
 category:
 ---
-
-## About MHN
 
 In 2005, a handful of Muslim mothers in Orange County who had started homeschooling or were seriously considering it as an option, decided to create an email list to share ideas and resources. Over the years, the number of Muslim homeschooling families in southern California increased and more and more Muslims started considering homeschooling as a viable option for their children. As the numbers grew, it made sense to build upon the email list and take the homeschooling group to the next level. In this spirit, in May 2012, the Muslim homeschoolers formed Muslim Homeschool Network (MHN),  a non-profit organization to bring Muslim homeschoolers of Southern California together from across the southland and better cater to their needs. By gathering their talents and working together, MHN, a volunteer driven organization, has been able to support Muslim homeschoolers on a larger scale in areas such as Islamic, educational, social, and parent growth, and at the same time outreach to the larger Muslim community and increase awareness and education on homeschooling.
 
