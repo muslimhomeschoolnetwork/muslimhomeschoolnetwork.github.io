@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-category: About
+category:
 ---
 
 ## About MHN
