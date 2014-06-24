@@ -1,33 +1,13 @@
 ---
 layout: default
-title: Mission and Vision
+title: About
 category: About
 ---
 
-## Our Mission
+## About MHN
 
-MHN aspires to support Muslim homeschoolers in educating their children in accordance with the Qur’an and Sunnah through social, educational, and volunteer opportunities, parent growth forums, and outreach programs for the larger Muslim community.
+In 2005, a handful of Muslim mothers in Orange County who had started homeschooling or were seriously considering it as an option, decided to create an email list to share ideas and resources. Over the years, the number of Muslim homeschooling families in southern California increased and more and more Muslims started considering homeschooling as a viable option for their children. As the numbers grew, it made sense to build upon the email list and take the homeschooling group to the next level. In this spirit, in May 2012, the Muslim homeschoolers formed Muslim Homeschool Network (MHN),  a non-profit organization to bring Muslim homeschoolers of Southern California together from across the southland and better cater to their needs. By gathering their talents and working together, MHN, a volunteer driven organization, has been able to support Muslim homeschoolers on a larger scale in areas such as Islamic, educational, social, and parent growth, and at the same time outreach to the larger Muslim community and increase awareness and education on homeschooling.
 
-MHN aspires to assist Muslim homeschoolers in educating their children in accordance with the Qur’an and Sunnah through social, educational, and support programs, and to provide outreach to the larger Muslim community.
+MHN does not subscribe to any particular homeschooling institution or philosophy: rather it brings together mothers from diverse homeschooling backgrounds who may be registered privately, with charters, or with public homeschool institutions.
 
-## Our Objectives
-
-1. For children: Provide regular classes, workshops, events, field trips, and positive socialization opportunities
-
-2. For mothers: Provide growth development opportunities and serve as a support group
-
-3. For larger Muslim community: Educate larger Muslim community about home schooling as a viable, possible alternative for children’s education
-
-The organization hopes to meet the objectives through committees in the following areas:
-
-* Educational Activities: Provide regular educational classes, events, and field trips throughout the calendar. (Eg. outdoor nature classes, Mathobotix, opportunities for students to share and present projects, basket weaving, sewing, etc. science classes, fairs, plays, and stage events.)
-
-* Islamic Activities: Work with local shuyookh and teachers to provide Islamic classes, workshops, and events. (Eg. Hajj re-enactment, Fiqh of Salaah for kids, Islamic etiquettes and manners, Islamic history, tafseer, lives of the Prophets, Eid card making workshop, etc)
-
-* Volunteer Activities: Work with local Muslim and non-Muslim non-profits such local mosques, Islamic relief, CAIR, to organize specific projects and activities for our homeschooling group. (Eg. packing brown bag lunches, beach cleanups, activism workshops, food bank harvesting, etc.)
-
-* Socialization Committee: Provide opportunities for children to socialize through social events and activities throughout the year. (Eg. iftars, Eid gift exchanges, potlucks, parties, and play dates.)
-
-* Parent Development: Provide regular parent growth opportunities throughout the year by inviting experts to learn from on different topics. (Eg. inviting homeschooling experts, child psychologists, parenting experts, speakers on handling stress, schedules, and organization.)
-
-* Homeschooling Support and Outreach: Welcome new homeschoolers with guidance and curriculum suggestions. Provide information to community at large about homeschooling as an education alternative with at least two large general events in the year. (Eg. include having one Homeschooling 101 event with a panel of speakers who school in different styles to give a holistic picture about homeschooling addressing, fears, concerns, etc.)
+For an an idea of events and activities we host, click [here](http://muslimhomeschoolnetwork.github.io/events/calendar/). The main avenue to join MHN is to [join](http://muslimhomeschoolnetwork.github.io/membership/sign-up/) our email list by signing up to become a member.
