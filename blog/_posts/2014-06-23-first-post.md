@@ -3,9 +3,6 @@ layout: default
 title: 20 Things You Can Do Now to Prep for Ramadan
 ---
 
-##20 Things You Can Do Now to Prep for Ramadan
-
-
 1. Have a Ramadan countdown calendar next to dinner table. (It could look something like [this](http://eighteen25.blogspot.com/2010/11/christmas-advents-countdown-clipboard.html)) Assign a different child to change the day.
 
 
