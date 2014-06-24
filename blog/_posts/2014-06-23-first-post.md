@@ -8,7 +8,7 @@ title: 20 Things You Can Do Now to Prep for Ramadan
 
 2. Share hadiths about Ramadan. Make it a habit to share an ayah/hadith about Ramadan at least 2-3 times a week to get into the Ramadan spirit. (Its good to tie it to something else, i.e. do it at dinner time). 
 
-[Hadith list 1](http://www.jannah.org/ramadan/ramadanhadiths.html) | [Hadith list 2](http://www.onislam.net/english/shariah/hadith/hadith-collections/463297-15-hadiths-about-ramadan.html
+[Hadith list 1](http://www.jannah.org/ramadan/ramadanhadiths.html) | [Hadith list 2](http://www.onislam.net/english/shariah/hadith/hadith-collections/463297-15-hadiths-about-ramadan.html)
 
 3. Practice fasting: Fast once or twice a week on Mondays and Thursdays to prep for Ramadan and perform the sunnah fast. 
 
