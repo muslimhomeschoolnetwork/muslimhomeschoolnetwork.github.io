@@ -4,8 +4,48 @@ title: Past Events
 published: true
 ---
 
-### Past Events
-#### Past Events for 2012-2013
+### Past Events for 2013-2014
+Alhamdulillah, MHN had a wide variety of events and activities organized for the Muslim homeschooling community this year. Here is a look at our year in review.
+
+**Islamic:**
+
+* Ramadan Prep with Ust. Mohammed Mana, Sr. Yafa Aweinat, Sr. Nadya Aweinat
+* Hajj Re-enactment with Sheikh Yassir Fazaga
+* Islamic Manners and Etiquettes from the Sunnah with Dr. Nasreen Khan
+* Fiqh of Salah with Dr. Nasreen Khan
+* Stories of the Righteous with Br. Hassan Elwan
+* Stories of  the Prophets with Sr. Nadya Aweinat
+* Waterfall Hike for Girls with Sr. Nadya Aweinat
+
+**Educational:**
+
+* Field trips to Legoland, Big Air Trampoline Park, Heritage Museum and Kellogg House, Waste Management, Centennial Farms, Riley’s Farm
+* Art class with Creative Creatures & Co.
+* Memory Keeping Workshop with Sr. Hana
+
+**Outreach:**
+
+* Homeschooling 101 Seminar at Chino Valley Islamic Center
+* One-on-one support throughout the year for new homeschoolers
+**Volunteer:**
+* Homeless Feeding at Mary’s Kitchen
+* Ramadan Toy Drive
+* CAIR-LA visit
+*	Walk for Water
+
+**Social:**
+
+*	Monthly park days in Chino Hills and Irvine
+*	Eid park days with potluck, games, and fun for the family
+*	Welcome picnic
+
+**Parent Enrichment:**
+
+*	Book Club every other month for mothers
+*	Chai Time every other month for mothers
+*	Islamicizing your Curriculum with Sr. Omaira
+
+### Past Events for 2012-2013
 Alhamdulillah, MHN had a wide variety of events and activities organized for the Muslim homeschooling community last year. Here is a look at our year in review.
 
 **Islamic:**
