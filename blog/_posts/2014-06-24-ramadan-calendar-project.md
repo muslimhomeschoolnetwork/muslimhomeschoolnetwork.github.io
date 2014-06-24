@@ -10,21 +10,13 @@ Have fun crafting!
 ###Supplies: 
 
 * The wooden letters/numbers are from [Craft Cuts](www.craftcuts.com) specifically this [page](http://www.craftcuts.com/baltic-birch-wooden-numbers.html). (I ordered 1 inch letters/numbers at 1/8 inch thick with no paper template, in the comment box choose "offset" for bold or "no offset" for regular lettering. The calendar that doesn't have "Ramadan Mubarak on it yet has no offset numbers) (each order is custom so give it about 2 weeks for delivery)
-
 * 100% wool felt from [A Child's Dream](www.achildsdream.com) specially this [page](http://www.achildsdream.com/wool-felt/). (Choose from any of the bundles: summer, fall, etc. this felt will become your pockets on the calendar, you'll have enough felt to make several calendars this way if each pocket is a different color, or at least 2 calendars if you buy just one bundle.) You can buy acetate felt from Joann's and Michael's for a fraction of the cost.
-
 * 100% wool felt for backing of calendar. Also purchased from [A Child's Dream](www.achildsdream.com). I used an 18"x18" square piece.
-
 * Gold or [silver metallic thread](http://www.achildsdream.com/dmc-metallic-embroidery-thread-light-gold/). ( It can also be purchased from Joann's with a coupon :)
-
 * Metallic sewing needles for sewing machine
-
 * Wooden dowel from Michael's (1/16 to 1/8 of an inch in diameter) 
-
 * String to hang the calendar from the dowel
-
 * Glue (any white glue will work, but I like [Tombow Mono Liquid Glue](http://tombowusa.com/mono-aqua-liquid-glue.html))
-
 * Wooden star embellishments by [Studio Calico](http://www.twopeasinabucket.com/shop/studio-calico/127143-classic-calico-vol-2-tiny-stars-wood-veneer/)
 
 ###Instructions:
