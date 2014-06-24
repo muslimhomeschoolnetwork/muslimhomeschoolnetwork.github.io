@@ -21,6 +21,7 @@ Alhamdulillah, MHN had a wide variety of events and activities organized for the
 
 * Field trips to Legoland, Big Air Trampoline Park, Heritage Museum and Kellogg House, Waste Management, Centennial Farms, Riley’s Farm
 * Art class with Creative Creatures & Co.
+* SoCal Kids Marketplace
 * Memory Keeping Workshop with Sr. Hana
 
 **Outreach:**
