@@ -9,12 +9,15 @@ Coming soon!
 ###Homeschooling Philosophies
 
 
+
 ####Charlotte Mason
 [Simply Charlotte Mason](http://simplycharlottemason.com) (free curriculum guide and e-books)
 
 
+
 ####Classical
 [The Well-Trained Mind](http://www.welltrainedmind.com) (guide to classical education at home)
+
 
 
 ####Montessori
