@@ -52,13 +52,14 @@ Coming soon!
 3. [Challenges of Homeschooling](http://blog.babygizmo.com/2014/05/top-six-challenges-homeschooling/)
 4. [PROS](http://www.weirdunsocializedhomeschoolers.com/homeschooling-pros-and-cons-part-2/#content) and [CONS](http://www.weirdunsocializedhomeschoolers.com/homeschooling-pros-and-cons/#content)
 5. [Step-by-Step Guide](http://californiahomeschool.net/howTo/pdf/CHNJTF2012_13.pdf)
-6. Local homeschooling groups
+6. Local homeschooling groups:
     
      [South Orange County Homeschoolers](https://groups.yahoo.com/neo/groups/SOC_homeschoolers/info)
     
      [Homeschooling in Central Orange County](https://groups.yahoo.com/neo/groups/HomeschoolingCOC/info)
     
      [Homeschooling OC](https://www.facebook.com/groups/145331013676/)
+
 7. [Educational Philosophies](http://simplehomeschool.net/educational-philosophies-defined-part-i/)
 8. [Mission Statement](http://www.mariannesunderland.com/2013/04/why-homeschool-how-to-make-a-homeschool-mission-statement/)
 9. [Cathy Duffy Reviews](http://cathyduffyreviews.com)
