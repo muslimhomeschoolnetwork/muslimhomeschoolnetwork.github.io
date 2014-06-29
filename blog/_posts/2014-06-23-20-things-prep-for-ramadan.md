@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: blog
 title: 20 Things You Can Do Now to Prep for Ramadan
 ---
 
 1. Have a Ramadan countdown calendar next to dinner table. (It could look something like [this](http://eighteen25.blogspot.com/2010/11/christmas-advents-countdown-clipboard.html)) Assign a different child to change the day.
 
-2. Share hadiths about Ramadan. Make it a habit to share an ayah/hadith about Ramadan at least 2-3 times a week to get into the Ramadan spirit. (Its good to tie it to something else, i.e. do it at dinner time). 
+2. Share hadiths about Ramadan. Make it a habit to share an ayah/hadith about Ramadan at least 2-3 times a week to get into the Ramadan spirit. (Its good to tie it to something else, i.e. do it at dinner time).
 
     [Hadith list 1](http://www.jannah.org/ramadan/ramadanhadiths.html) | [Hadith list 2](http://www.onislam.net/english/shariah/hadith/hadith-collections/463297-15-hadiths-about-ramadan.html)
 
@@ -17,7 +17,7 @@ title: 20 Things You Can Do Now to Prep for Ramadan
 
 6. Share Ramadan stories. Share stories related to Ramadan from lives of the Sahaba or your memories of Ramadan. Have grandparents share their stories as well.
 
-7. Prepare your dua list now. Prepare a customized dua list (write it down) which has duas you will do daily in Ramadan. Great activity to do with kids and have their own du’a list. 
+7. Prepare your dua list now. Prepare a customized dua list (write it down) which has duas you will do daily in Ramadan. Great activity to do with kids and have their own du’a list.
 
 8.  Make salaah times the focal point of your day. Work on centering your day around prayer and make it a habit by Ramadan. (Set times for each prayer)
 
@@ -31,9 +31,9 @@ title: 20 Things You Can Do Now to Prep for Ramadan
 
 13. Control your tongue. Practice now to speak with respect and use good language.  
 
-14. Do more schoolwork now so Ramadan is relatively free. If you intend to do schoolwork in the summer, you may want to do more now to leave the month more free for worship. 
+14. Do more schoolwork now so Ramadan is relatively free. If you intend to do schoolwork in the summer, you may want to do more now to leave the month more free for worship.
 
-15. Get your Ramadan projects for kids ready. There are so many neat Ramadan related projects you can do with your children during Ramadan that you can find online on blogs Pinterest, etc. Do your research and prep now. 
+15. Get your Ramadan projects for kids ready. There are so many neat Ramadan related projects you can do with your children during Ramadan that you can find online on blogs Pinterest, etc. Do your research and prep now.
 
     [Project ideas](http://www.pinterest.com/HomeschoolDivas/homeschooling-ramadan/)
 
@@ -41,9 +41,9 @@ title: 20 Things You Can Do Now to Prep for Ramadan
 
     [Ramadan Tracker](http://myramadan.co.uk/wp-content/uploads/2010/08/MyRamadanTracker1.pdf)
 
-16. Make decorations. Make your decorations starting now for Ramadan so you are not rushed at the end and you just have to put them up when Ramadan comes. 
+16. Make decorations. Make your decorations starting now for Ramadan so you are not rushed at the end and you just have to put them up when Ramadan comes.
 
-17. Listen to lectures about Ramadan. Listen to lectures with the family to get into the spirit of Ramadan. 
+17. Listen to lectures about Ramadan. Listen to lectures with the family to get into the spirit of Ramadan.
 
     [Ramadan and the Qur’an](https://www.youtube.com/watch?v=3RDhYeskaSg)
 
@@ -55,12 +55,10 @@ title: 20 Things You Can Do Now to Prep for Ramadan
 
 19. Do your Eid clothes and gift shopping now! Get your Eid clothes ready and Eid gifts ready now so that your time and mind are free during Ramadan.
 
-20. Declutter. Do a general organizing and decluttering of the house with specific goals to be done by the week before Ramadan. The spring cleaning that hasn’t happened yet, those outgrown clothes that need to be given away, the garage that needs to get organized, do them now so that come Ramadan, you aren’t annoyed by these things and your house gives you peace of mind. 
+20. Declutter. Do a general organizing and decluttering of the house with specific goals to be done by the week before Ramadan. The spring cleaning that hasn’t happened yet, those outgrown clothes that need to be given away, the garage that needs to get organized, do them now so that come Ramadan, you aren’t annoyed by these things and your house gives you peace of mind.
 
 Ma’ali bin Fudail said about the salaf:
 
 ‘They used to ask Allah the Almighty six months before Ramadhan to grant them long life so that they could reach Ramadhan and they used to ask Allah the Almighty six months after Ramadhan to accept their fasting’.
 
 May Allah make us reach Ramadan and help us accomplish its countless benefits.
-
-
