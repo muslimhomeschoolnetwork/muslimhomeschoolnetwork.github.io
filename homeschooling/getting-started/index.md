@@ -19,7 +19,7 @@ There is more than one way to legally go about homeschooling in the state of Cal
 
 ####3. Connect with Local Homeschool Groups.
 
-The best way to learn more about homeschooling is to connect with other homeschoolers.  Click here to learn more about joining MHN’s email list.
+The best way to learn more about homeschooling is to connect with other homeschoolers.  Click [here](http://www.muslimhomeschoolnetwork.com/membership/sign-up/) to learn more about joining MHN’s email list.
 
 Here are a few other local groups that our members are also a part of:
 
