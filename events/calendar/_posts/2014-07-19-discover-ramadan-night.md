@@ -5,6 +5,7 @@ start: "19:00"
 end: "21:00"
 venue: Islamic Society of Orange County
 address: "1 al-Rahman Plaza Garden Grove, CA 92844"
+expired: true
 published: true
 ---
 
