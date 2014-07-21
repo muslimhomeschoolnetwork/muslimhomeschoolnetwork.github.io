@@ -38,6 +38,9 @@ Coming soon!
 ###Parenting
 * [Aha! Parenting](http://www.ahaparenting.com)
 
+###Field Trips
+* How to plan a field trip
+
 ###Getting Started Quick Links
 
 1. [California Homeschool Network’s FAQs](http://www.californiahomeschool.net/howTo/faq.htm )
