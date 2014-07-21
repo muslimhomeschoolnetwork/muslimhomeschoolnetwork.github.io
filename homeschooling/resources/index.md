@@ -39,7 +39,7 @@ Coming soon!
 * [Aha! Parenting](http://www.ahaparenting.com)
 
 ###Field Trips and Events
-* [How to organize a field trip/event])http://www.muslimhomeschoolnetwork.com/homeschooling/fieldtrip/)
+* [How to organize a field trip/event](http://www.muslimhomeschoolnetwork.com/homeschooling/fieldtrip/)
 
 ###Getting Started Quick Links
 
