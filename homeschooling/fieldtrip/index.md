@@ -10,18 +10,31 @@ title: How to Organize a Field Trip or Event
 3. Check the MHN calendar to make sure the event does not conflict with an MHN event. (Go to [MHN website](http://www.muslimhomeschoolnetwork.com/events/calendar/) or [MHN yahoo group](https://groups.yahoo.com/MuslimHomeschoolNetwork), click on ‘calendar’ and check there). Avoid planning field trip on Fridays.
 
 4. Make arrangements with the venue to plan the field trip/event. 
+
 a.	Find out when payment needs to be made
+
 b.	How many students are needed for a discounted ticket?
+
 c.	Where should everyone meet? 
+
 d.	Does everyone need to enter at the same time? 
+
 e.	What time should everyone be there? 
+
 f.	Is there a parking fee?
+
 g.	 Are there are any restrictions the group should know about?
+
 h.	If outside food is permitted?
+
 i.	Are there any tips the staff can provide the group?
+
 j.	Can the venue host multiple age groups?
+
 k.	 How many chaperones are needed and are parents and siblings allowed to join?
+
 l.	 Are there any online resources that will help before or after the field trip?
+
 m.	What are the etiquette guidelines for the group?
 
 5.	Once the arrangements have been set, send an email (preferably 2-4 weeks before the event) to the group with the following information:
