@@ -3,11 +3,6 @@ layout: default
 title: How to Organize a Field Trip or Event
 ---
 
----
-layout: default
-title: Organizing a Field Trip/Event
----
-
 1. Choose a day you want to plan your event (field trip, park day, etc.)
 2. If you need a minimum number of participants, send a ‘feeler’ email to MHN to see how many people are interested in joining the event/field trip. Optional: propose two dates/times if that is an option.
 3. Check the MHN calendar to make sure the event does not conflict with an MHN event. (Go to MHN website or MHN yahoo group, click on ‘calendar’ and check there). Avoid planning field trip on Fridays.
