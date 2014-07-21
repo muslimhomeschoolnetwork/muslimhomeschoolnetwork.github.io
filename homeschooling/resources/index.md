@@ -38,8 +38,8 @@ Coming soon!
 ###Parenting
 * [Aha! Parenting](http://www.ahaparenting.com)
 
-###Field Trips
-* How to plan a field trip
+###Field Trips and Events
+* [How to organize a field trip/event])http://www.muslimhomeschoolnetwork.com/homeschooling/fieldtrip/)
 
 ###Getting Started Quick Links
 
