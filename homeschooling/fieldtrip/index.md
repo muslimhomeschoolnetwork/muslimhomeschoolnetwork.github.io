@@ -7,7 +7,7 @@ title: How to Organize a Field Trip or Event
 
 2. If you need a minimum number of participants, send a ‘feeler’ email to MHN to see how many people are interested in joining the event/field trip. Optional: propose two dates/times if that is an option.
 
-3. Check the MHN calendar to make sure the event does not conflict with an MHN event. (Go to [MHN website](http://www.muslimhomeschoolnetwork.com/events/calendar/) or [MHN yahoo group](https://groups.yahoo.com/MuslimHomeschoolNetwork), click on ‘calendar’ and check there). Avoid planning field trip on Fridays.
+3. Check the [MHN calendar](http://www.muslimhomeschoolnetwork.com/events/calendar/) or [MHN yahoo group](https://groups.yahoo.com/MuslimHomeschoolNetwork), click on ‘calendar’ and check there). Avoid plan to make sure the event does not conflict with an MHN event. (Go to [MHN website](http://www.muslimhomeschoolnetwork.com/events/calendar/) or [MHN yahoo group](https://groups.yahoo.com/MuslimHomeschoolNetwork), click on ‘calendar’ and check there). Avoid planning field trip on Fridays.
 
 4. Make arrangements with the venue to plan the field trip/event. 
 
@@ -49,27 +49,27 @@ title: How to Organize a Field Trip or Event
 
   e.	Who the event is geared towards and any age limitations
 
-  f.	RSVP instructions with 
+  f.	RSVP instructions with:
 
-  i.	Link to a Google Doc/form
+    i.	Link to a Google Doc/form
 
-  ii.	Payment method (highly recommended ahead of time (PayPal)
+    ii.	Payment method (highly recommended ahead of time (PayPal)
 
-  iii.	No refunds, only transfer (attendee’s responsibility)
+    iii.	No refunds, only transfer (attendee’s responsibility)
 
-  iv.	Contact information for participants and organizer of the field trip.
+    iv.	Contact information for participants and organizer of the field trip.
 
   g.	Important information 
 
-  i.	Field trip etiquette
+    i.	Field trip etiquette
 
-  ii.	Arrival time
+    ii.	Arrival time
 
-  iii.	Length of event
+    iii.	Length of event
 
-  iv.	Contact information
+    iv.	Contact information
 
-  v.	Other pertinent information.
+    v.	Other pertinent information.
 
   h.	Post when registration will be closed
 
