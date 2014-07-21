@@ -1,58 +1,59 @@
 ---
 layout: default
-title: Getting Started
+title: How to Organize a Field Trip or Event
 ---
 
-##HOW TO HOMESCHOOL
+---
+layout: default
+title: Organizing a Field Trip/Event
+---
 
-Are you looking to learn more about homeschooling? Follow our step-by-step guide to getting started.  We have a lot of information here so be sure to pace yourself. Our Support and Outreach team is here for you and is happy to answer any questions you may have. 
+1. Choose a day you want to plan your event (field trip, park day, etc.)
+2. If you need a minimum number of participants, send a ‘feeler’ email to MHN to see how many people are interested in joining the event/field trip. Optional: propose two dates/times if that is an option.
+3. Check the MHN calendar to make sure the event does not conflict with an MHN event. (Go to MHN website or MHN yahoo group, click on ‘calendar’ and check there). Avoid planning field trip on Fridays.
+4. Make arrangements with the venue to plan the field trip/event. 
+a.	Find out when payment needs to be made
+b.	How many students are needed for a discounted ticket?
+c.	Where should everyone meet? 
+d.	Does everyone need to enter at the same time? 
+e.	What time should everyone be there? 
+f.	Is there a parking fee?
+g.	 Are there are any restrictions the group should know about?
+h.	If outside food is permitted?
+i.	Are there any tips the staff can provide the group?
+j.	Can the venue host multiple age groups?
+k.	 How many chaperones are needed and are parents and siblings allowed to join?
+l.	 Are there any online resources that will help before or after the field trip?
+m.	What are the etiquette guidelines for the group?
+5.	Once the arrangements have been set, send an email (preferably 2-4 weeks before the event) to the group with the following information:
+a.	Subject line: Name of event | date
+b.	What the event is (link to website and/or description)
+c.	When the event is being held (day, time, duration)
+d.	Where the event is (address, link to website page with address, or  link to maps)
+e.	Who the event is geared towards and any age limitations
+f.	RSVP instructions with 
+i.	Link to a Google Doc/form
+ii.	Payment method (highly recommended ahead of time (PayPal)
+iii.	No refunds, only transfer (attendee’s responsibility)
+iv.	Contact information for participants and organizer of the field trip.
+g.	Important information 
+i.	Field trip etiquette
+ii.	Arrival time
+iii.	Length of event
+iv.	Contact information
+v.	Other pertinent information.
+h.	Post when registration will be closed
+6.	Follow up with venue with payment and to finalize reservation
+7.	Send a follow up email to MHN to remind people to sign up or that registration is coming to a close.
+8.	Once registration is closed, continue any email contact off list if necessary.
+9.	Post reminder for event 1-2 days prior to event.
+10.	On the day of the event (field trip specifically), have a person in charge of 
+a.	Handling phone calls/text messages,
+b.	Checking people in
+c.	Handing out tickets, etc. 
+11.	Remind families of any rules, etiquettes and other information specific to event.
 
-####1. To Homeschool or Not?
-
-The first step to getting started is determining whether homeschooling is the best option for your family.  You will often hear homeschoolers espouse the benefits of homeschooling, but we recognize that there are challenges to homeschooling as well and that each family has to decide what is best for them.  [California Homeschool Network’s FAQs](http://www.californiahomeschool.net/howTo/faq.htm) about homeschooling is a great place to get some of your general questions about homeschooling answered.  
-
-Want to hear more from homeschoolers themselves?  Read what one of our members had to say about her [transition to homeschooling](http://blog.babygizmo.com/2014/03/10-things-homeschooling-mom-miss-traditional-school/).  Then see her follow up article examining some of the [challenges of homeschooling](http://blog.babygizmo.com/2014/05/top-six-challenges-homeschooling/).  Here are two more articles listing the [PROS](http://www.weirdunsocializedhomeschoolers.com/homeschooling-pros-and-cons-part-2/#content) and [CONS](http://www.weirdunsocializedhomeschoolers.com/homeschooling-pros-and-cons/#content) to help you make the right decision. 
-
-####2. Determine Your Legal Options.
-
-There is more than one way to legally go about homeschooling in the state of California.  Here’s a [Step-by-Step Guide](http://californiahomeschool.net/howTo/pdf/CHNJTF2012_13.pdf) to all your legal options.
-
-####3. Connect with Local Homeschool Groups.
-
-The best way to learn more about homeschooling is to connect with other homeschoolers.  Click [here](http://www.muslimhomeschoolnetwork.com/membership/sign-up/) to learn more about joining MHN’s email list.
-
-Here are a few other local groups that our members are also a part of:
-
-[South Orange County Homeschoolers](https://groups.yahoo.com/neo/groups/SOC_homeschoolers/info)  
-[Homeschooling in Central Orange County](https://groups.yahoo.com/neo/groups/HomeschoolingCOC/info)  
-[Homeschooling OC](https://www.facebook.com/groups/145331013676/#_=_)  
-
-####4. Explore Educational Philosophies.
-
-Once you’ve determined homeschooling is the right option for your family, it’s time to start learning how to actually go about doing it!  There are so many different ways to homeschool. Here is a breakdown of the various [educational philosophies](http://simplehomeschool.net/educational-philosophies-defined-part-i/).   
-
-####5. Write a Family Mission Statement.
-
-Having a family mission statement is an invaluable tool to aid you in making the right decisions when it comes to choosing curriculum, classes or activities.  Sometimes the choices can be overwhelming and taking the time to write down what you want now will help guide you in making the best choices for your family.  Learn more about writing a family mission statement [here](http://www.mariannesunderland.com/2013/04/why-homeschool-how-to-make-a-homeschool-mission-statement/).  
-
-####6. Choose Curriculum.
-
-With curriculum options aplenty, finding the right one for your family can seem like a daunting task. The author of -101 Top picks for Homeschool Curriculum-, Cathy Duffy, has a great [website]() that offers articles and reviews of other books. This is a must BOOKMARK for every homeschooler who wants a detailed review of curriculum they are looking into. 
-
-[Homeschool Reviews](http://www.homeschoolreviews.com) is another great website where homeschoolers review the curriculum available.  
-
-Of course, don’t forget to post your questions about curriculum on MHN’s email list!  
-
-####7. Set up a Homeschool Space.
-
-Some people set up a separate homeschool classroom, some teach in the living room or on the kitchen table and still others take their learning outdoors.  Whatever you decide, you’ll need some space to store your homeschool supplies.  Clear off a bookshelf or make space in the closet, but be sure to set up a place to keep all your homeschool materials organized and on hand.  Check out [Pinterest](http://www.pinterest.com/search/pins/?q=homeschool%20room) for lots of ideas on setting up a homeschool area!
-
-####8. Always seek help from Allah (Subhanahu wa Ta’aala).
-
-Throughout this whole process, don’t forget the most important thing: seeking help from Allah (SWT) every step of the way!  Remember to make dua for Allah (SWT) to guide you in making the best choices for your family.  We pray that Allah (SWT) helps you in this journey and makes it easy and beneficial for your family!  
-
-
-
-For further support please contact [outreach@muslimhomeschoolnetwork.com](mailto:outreach@muslimhomeschoolnetwork.com)
-
-
+Optional: 
+a.	Follow up email with venue to thank them if necessary (be sure to write down the name of any teachers, docents or staff members you want to thank)
+b.	Ask attendees for pictures of the event
+c.	Ask attendees for feedback (personal email, google doc form or Survey Monkey, for instance)
