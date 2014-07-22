@@ -85,4 +85,4 @@ a.	Follow up email with venue to thank them if necessary (be sure to write down 
 b.	Ask attendees for pictures of the event     
 c.	Ask attendees for feedback (personal email, google doc form or Survey Monkey, for instance)     
 
-#####[Click here for a printable version on How to Organize a Field Trip/Event.](/images / organizing_a_field_trip.pdf)
+#####[Click here for a printable version on How to Organize a Field Trip/Event.](/images/organizing_a_field_trip.pdf)
