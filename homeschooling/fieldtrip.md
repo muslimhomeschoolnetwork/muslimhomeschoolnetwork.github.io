@@ -52,13 +52,17 @@ title: How to Organize a Field Trip or Event
 
   f.	***RSVP*** instructions with:
 
-    i.	Link to a Google Doc/form
+    
+      i.	Link to a Google Doc/form
 
-    ii.	Payment method (highly recommended ahead of time (PayPal)
 
-    iii.	No refunds, only transfer (attendee’s responsibility)
+      ii.	Payment method (highly recommended ahead of time (PayPal)
 
-    iv.	Contact information for participants and organizer of the field trip.
+  
+      iii.	No refunds, only transfer (attendee’s responsibility)
+
+    
+      iv.	Contact information for participants and organizer of the field trip.
 
   g.	***Important information***
 
