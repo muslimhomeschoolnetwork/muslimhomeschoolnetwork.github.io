@@ -56,17 +56,12 @@ title: How to Organize a Field Trip or Event
       iii.	No refunds, only transfer (attendee’s responsibility)     
       iv.	Contact information for participants and organizer of the field trip.     
 
-  g.	***Important information***
-
-    i.	Field trip etiquette
-
-    ii.	Arrival time
-
-    iii.	Length of event
-
-    iv.	Contact information
-
-    v.	Other pertinent information.
+  g.	***Important information***     
+    i.	Field trip etiquette     
+    ii.	Arrival time     
+    iii.	Length of event     
+    iv.	Contact information     
+    v.	Other pertinent information     
 
   h.	Post when registration will be closed
 
@@ -78,20 +73,16 @@ title: How to Organize a Field Trip or Event
 
 9.	Post reminder for event ***1-2*** days prior to event.
 
-10.	On the day of the event (field trip specifically), have a person in charge of 
-
-  a.	Handling phone calls/text messages,
-
-  b.	Checking people in
-
-  c.	Handing out tickets, etc. 
+10.	On the day of the event (field trip specifically), have a person in charge of:     
+  a.	Handling phone calls/text messages     
+  b.	Checking people in     
+  c.	Handing out tickets, etc.      
 
 11.	Remind families of any rules, etiquettes and other information specific to event.
 
-***Optional:*** 
+***Optional:***     
+a.	Follow up email with venue to thank them if necessary (be sure to write down the name of any teachers, docents or staff members you want to thank)     
+b.	Ask attendees for pictures of the event     
+c.	Ask attendees for feedback (personal email, google doc form or Survey Monkey, for instance)     
 
-a.	Follow up email with venue to thank them if necessary (be sure to write down the name of any teachers, docents or staff members you want to thank)
-
-b.	Ask attendees for pictures of the event
-
-c.	Ask attendees for feedback (personal email, google doc form or Survey Monkey, for instance)
+#####Click here for a printable version on How to Organize a Field Trip/Event.
