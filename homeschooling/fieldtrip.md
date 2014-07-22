@@ -7,7 +7,8 @@ title: How to Organize a Field Trip or Event
 
 2. If you need a minimum number of participants, send a ‘feeler’ email to MHN to see how many people are interested in joining the event/field trip. Optional: propose two dates/times if that is an option.
 
-3. Check the [MHN calendar](http://www.muslimhomeschoolnetwork.com/events/calendar/) or [MHN yahoo group](https://groups.yahoo.com/MuslimHomeschoolNetwork), click on ‘calendar’ and check there). Avoid plan to make sure the event does not conflict with an MHN event. (Go to [MHN website](http://www.muslimhomeschoolnetwork.com/events/calendar/) or [MHN yahoo group](https://groups.yahoo.com/MuslimHomeschoolNetwork), click on ‘calendar’ and check there). Avoid planning field trip on Fridays.
+3. Check the [MHN calendar](http://www.muslimhomeschoolnetwork.com/events/calendar/) to make sure the event ***does not*** conflict with an MHN event.
+(Go to [MHN calendar](http://www.muslimhomeschoolnetwork.com/events/calendar/) or [MHN yahoo group](https://groups.yahoo.com/MuslimHomeschoolNetwork), click on ‘calendar’ and check there). Avoid planning field trip on Fridays.
 
 4. Make arrangements with the venue to plan the field trip/event. 
 
@@ -39,17 +40,17 @@ title: How to Organize a Field Trip or Event
 
 5.	Once the arrangements have been set, send an email (preferably 2-4 weeks before the event) to the group with the following information:
 
-  a.	Subject line: Name of event | date
+  a.	***Subject line***: Name of event | date
 
-  b.	What the event is (link to website and/or description)
+  b.	***What*** the event is (link to website and/or description)
 
-  c.	When the event is being held (day, time, duration)
+  c.	***When*** the event is being held (day, time, duration)
 
-  d.	Where the event is (address, link to website page with address, or  link to maps)
+  d.	***Where*** the event is (address, link to website page with address, or  link to maps)
 
-  e.	Who the event is geared towards and any age limitations
+  e.	***Who*** the event is geared towards and any age limitations
 
-  f.	RSVP instructions with:
+  f.	***RSVP*** instructions with:
 
     i.	Link to a Google Doc/form
 
@@ -59,7 +60,7 @@ title: How to Organize a Field Trip or Event
 
     iv.	Contact information for participants and organizer of the field trip.
 
-  g.	Important information 
+  g.	***Important information***
 
     i.	Field trip etiquette
 
@@ -79,7 +80,7 @@ title: How to Organize a Field Trip or Event
 
 8.	Once registration is closed, continue any email contact off list if necessary.
 
-9.	Post reminder for event 1-2 days prior to event.
+9.	Post reminder for event ***1-2*** days prior to event.
 
 10.	On the day of the event (field trip specifically), have a person in charge of 
 
@@ -91,7 +92,7 @@ title: How to Organize a Field Trip or Event
 
 11.	Remind families of any rules, etiquettes and other information specific to event.
 
-Optional: 
+***Optional:*** 
 
 a.	Follow up email with venue to thank them if necessary (be sure to write down the name of any teachers, docents or staff members you want to thank)
 
