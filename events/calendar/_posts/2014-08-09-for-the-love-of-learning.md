@@ -6,6 +6,7 @@ end: "16:00"
 venue: ACCESS California Services
 address: "631 S. Brookhurst St #107, Anaheim, CA 92804"
 published: true
+expired: true
 ---
 
 ##For the Love of Learning
