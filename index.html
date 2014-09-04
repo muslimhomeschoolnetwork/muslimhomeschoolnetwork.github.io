@@ -29,8 +29,12 @@ layout: default
                     <h4 class="list-group-item-heading">{{event.title}}</h4>
                     <p class="list-group-item-text">
                         {{event.date | date: "%B %d, %Y" }}
+                        {% if event.start and event.end %}
+                        <p class="meta">Time:
                         {% include display_time.html param=event.start %} -
                         {% include display_time.html param=event.end %}
+                        </p>
+                        {% endif %}
                     </p>
                 </a>
             {% endif %}
