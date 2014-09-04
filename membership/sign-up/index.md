@@ -18,7 +18,7 @@ MHN’s email list serves the current and future homeschooling Muslims in the so
 
 \*\*To ensure that the list maintains its focus on serving current and future homeschoolers, those new list members who are seriously considering homeschooling and have not yet started are required to attend at least one MHN event during the school year; we highly recommend our 101 seminars.
 
-Additionally, groups 1 and 2 above are eligible for "Paid Membership" for a fee of $25 per family for the year. Your paid membership supports MHN to continue to provide numerous services at a low cost to the Muslim homeschool community in the areas of social, educational, Islamic, leadership, and support and outreach, and help fund scholarships for less fortunate Muslim homeschooling families.
+Additionally, groups 1 and 2 above are eligible for "Paid Membership" for a fee of $20 per family for the year. Your paid membership supports MHN to continue to provide numerous services at a low cost to the Muslim homeschool community in the areas of social, educational, Islamic, leadership, and support and outreach, and help fund scholarships for less fortunate Muslim homeschooling families.
 
 Please fill out this survey to subscribe to our MHN's email list. Your input will enable to us to get a better picture of Muslim homeschoolers in the Southern California area for the first time which will help gain services for our group and will also allow us to serve you better.
 
