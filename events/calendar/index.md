@@ -22,8 +22,8 @@ extra_js: |
             {% for event in site.categories.calendar %}
             {
                 title: {{event.title | jsonify }},
-                start: "{{event.date | date: "%F" }}T" + {{event.start | jsonify}},
-                end: "{{event.date | date: "%F" }}T" + {{event.end | jsonify}},
+                start: "{{event.date | date: "%F" }}" {% if event.start %} + "T" + {{event.start | jsonify}} {% endif %},
+                end: "{{event.date | date: "%F" }}" {% if event.end %} + "T" + {{event.end | jsonify}} {% endif %},
                 url: {{event.url | jsonify }}
             }
             {% if forloop.last == false %},{% endif %}
