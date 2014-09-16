@@ -32,9 +32,13 @@ For more about this class check it out [here](http://california.legoland.com/en/
 
 ##The fine print:
 
-\*Tickets are not refundable (but they are transferable at the owner’s discretion). 
-\*\*The class being offered is for grades 3-6. We can accept 7th and 8th grades but no one younger than 3rd grade. You also MUST register for the class during the registration process where it says "Adventure Bots". Please mark how many students will be attending. 
+\*Tickets are not refundable (but they are transferable at the owner’s discretion).
+
+\*\*The class being offered is for grades 3-6. We can accept 7th and 8th grades but no one younger than 3rd grade. You also MUST register for the class during the registration process where it says "Adventure Bots". Please mark how many students will be attending.
+
 \*\*\*It is your responsibility to arrange delivery/pick up of your tickets. The tickets will be in Mission Viejo and possibly other locations. OR, you can pay $0.50 extra to have tickets mailed to you via USPS (not responsible for lost or stolen tickets)
-\*\*\*\*The tickets will be available about one month before the Legoland field trip so everyone is free to arrive to the park at their leisure. 
-\*\*\*\*\*If you sign up for the class offered, you MUST arrive 15 minutes prior to the class time for sign-in. No additional parents or siblings can stay in the class (we will only need about 1 chaperon/5 kids). 
-\*\*\*\*\*\*You are free you enjoy the park at your leisure, other than the class, this is a self-guided tour. 
+\*\*\*\*The tickets will be available about one month before the Legoland field trip so everyone is free to arrive to the park at their leisure.
+
+\*\*\*\*\*If you sign up for the class offered, you MUST arrive 15 minutes prior to the class time for sign-in. No additional parents or siblings can stay in the class (we will only need about 1 chaperon/5 kids).
+
+\*\*\*\*\*\*You are free you enjoy the park at your leisure, other than the class, this is a self-guided tour.
