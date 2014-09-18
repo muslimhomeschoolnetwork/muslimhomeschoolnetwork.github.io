@@ -23,8 +23,9 @@ published: true
 
 **PARKING**: Parking is $15/car. Receive a free parking pass when you purchase a package deal of 3 kids and 1 adult for just $32.99 (great value!)
 
-**REGISTRATION**: Opens the evening of  September 16th
+**REGISTRATION**: Opens the evening of September 16th
 
+**DEADLINE**: September 23rd
 
 Free Class (with registration): grades 3rd -6th called “Adventure Bots”. We have two classes reserved: 10am and 11am. Class size cannot exceed 32 students and cannot take place with less than 15 students. There may be some changes with the class once registration closes.
 
@@ -42,3 +43,5 @@ For more about this class check it out [here](http://california.legoland.com/en/
 \*\*\*\*\*If you sign up for the class offered, you MUST arrive 15 minutes prior to the class time for sign-in. No additional parents or siblings can stay in the class (we will only need about 1 chaperon/5 kids).
 
 \*\*\*\*\*\*You are free you enjoy the park at your leisure, other than the class, this is a self-guided tour.
+
+<script type="text/javascript" src="http://form.jotformpro.com/jsform/42565880420960"></script>
