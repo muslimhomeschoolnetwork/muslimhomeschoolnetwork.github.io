@@ -5,7 +5,7 @@ start: "10:00"
 end: "17:00"
 venue: Legoland California
 address: "One Legoland Dr. Carlsbad, CA"
-expired: true
+expired: false
 published: true
 ---
 
