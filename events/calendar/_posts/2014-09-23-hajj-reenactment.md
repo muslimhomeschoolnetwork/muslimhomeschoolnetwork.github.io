@@ -6,7 +6,7 @@ end: "12:45"
 venue: Masjid Al-Hedaya
 address: 5109 W. 5th St., Santa Ana CA 92703
 published: true
-expired: false
+expired: true
 ---
 
 **WHAT**: Hajj Reenactment with Dr. Ahmed Soboh!! The days of Dhul Hijjah are quickly approaching. Dr. Ahmed Soboh will inshaAllah be our children's guide through their Hajj (Reenactment). They will throw pebbles at the Jamaraat, run between Safa and Marwa, make tawaaf around the ka'bah, and more! The children will also have an opportunity to take part in a Hajj Game.
