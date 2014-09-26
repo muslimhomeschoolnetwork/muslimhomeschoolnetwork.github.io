@@ -9,7 +9,7 @@ published: true
 expired: false
 ---
 **WHAT**:
-MHN, in partnership with UPLIFT Charity, is sponsoring a toy drive to collect gifts to donate this Eid al-Adha.  Please bring a new, unwrapped toy and help us put an Eid Mubarak tag on it.  At 11:00, a speaker from UPLIFT Charity will tell us about their work and the families who benefit from everyone's generosity.
+MHN, in partnership with [UPLIFT Charity](http://www.upliftcharity.org), is sponsoring a toy drive to collect gifts to donate this Eid al-Adha.  Please bring a new, unwrapped toy and help us put an Eid Mubarak tag on it.  At 11:00, a speaker from UPLIFT Charity will tell us about their work and the families who benefit from everyone's generosity.
  
 **WHO**:
 All MHN Children
