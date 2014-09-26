@@ -4,6 +4,7 @@ title: Eid Toy Drive
 start: "11:00"
 end: "13:00"
 venue: Masjid Al-Hedaya
+address: 5109 W. 5th St., Santa Ana CA 92703
 published: true
 expired: false
 ---
@@ -19,4 +20,5 @@ Wednesday, October 1, 2014
  
 **WHERE**:
 Masjid Al-Hedaya
+
 5109 W. 5th St., Santa Ana CA 92703
