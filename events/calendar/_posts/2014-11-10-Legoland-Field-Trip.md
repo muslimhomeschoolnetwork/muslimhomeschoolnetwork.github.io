@@ -44,4 +44,4 @@ For more about this class check it out [here](http://california.legoland.com/en/
 
 \*\*\*\*\*\*You are free you enjoy the park at your leisure, other than the class, this is a self-guided tour.
 
-<script type="text/javascript" src="http://form.jotformpro.com/jsform/42565880420960"></script>
+####Registration has closed for this event.
