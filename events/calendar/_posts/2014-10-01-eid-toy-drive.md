@@ -6,7 +6,7 @@ end: "13:00"
 venue: Masjid Al-Hedaya
 address: 5109 W. 5th St., Santa Ana CA 92703
 published: true
-expired: false
+expired: true
 ---
 **WHAT**:
 MHN, in partnership with [UPLIFT Charity](http://www.upliftcharity.org), is sponsoring a toy drive to collect gifts to donate this Eid al-Adha.  Please bring a new, unwrapped toy and help us put an Eid Mubarak tag on it.  At 11:00, a speaker from UPLIFT Charity will tell us about their work and the families who benefit from everyone's generosity.
