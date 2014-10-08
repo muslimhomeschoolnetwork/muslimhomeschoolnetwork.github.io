@@ -8,4 +8,6 @@ published: true
 expired: false
 ---
 
-More info to come!
+Location info to come!
+
+[Sign up](https://docs.google.com/spreadsheet/ccc?key=0AlMr0Y2eF9XJdFkzLVhxNXIwMTBzVFI0VEpFekF5Mmc&usp=sharing#gid=0) for the picnic!
