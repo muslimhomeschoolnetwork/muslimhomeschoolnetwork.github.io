@@ -19,7 +19,7 @@ Coming Soon!
 
 
 ###Education Sites
-* [Starfall](www.starfall.com) (reading and math, pre-k to 2nd)
+* [Starfall](https://www.starfall.com) (reading and math, pre-k to 2nd)
 * [Khan Academy](https://www.khanacademy.org) (online learning for free)
 
 ###Curriculum Vendors
