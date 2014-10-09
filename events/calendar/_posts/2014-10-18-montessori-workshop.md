@@ -9,7 +9,7 @@ published: true
 expired: false
 ---
 **WHAT**:
-#Workshop with Montessori Expert Barbara Bondurant
+Workshop with Montessori Expert Barbara Bondurant
  
 This workshop will provide an overview of the Montessori Methods for Reading, Writing, Math, and more! Barbara will go over tools and techniques that are hands on and sensory, allowing children to fully grasp concepts. The second half of the workshop will be a question and answer session. Although the workshop will be geared 3-6 year olds, the methods can be applied to older elementary students as well.
  
