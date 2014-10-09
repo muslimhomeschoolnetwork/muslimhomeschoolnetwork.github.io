@@ -19,7 +19,7 @@ Barbara was trained by Ms Lena Wikramaratne, who trained under Maria Montessori 
  
 **WHO**:
 Mothers
-*/In order to allow attendees to focus, there will be no arrangement for children to attend. Nursing infants are welcome. 
+*/ In order to allow attendees to focus, there will be no arrangement for children to attend. Nursing infants are welcome. 
  
 **WHEN**:
 Saturday, October 18, 2014
