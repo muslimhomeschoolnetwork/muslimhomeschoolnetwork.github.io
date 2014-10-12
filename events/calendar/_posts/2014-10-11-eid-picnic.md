@@ -5,7 +5,7 @@ start:
 end: 
 venue: 
 published: true
-expired: false
+expired: true
 ---
 
 Location info to come!
