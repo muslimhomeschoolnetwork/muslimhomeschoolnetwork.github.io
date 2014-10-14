@@ -23,7 +23,7 @@ Mothers
 \*In order to allow attendees to focus, there will be no arrangement for children to attend. Nursing infants are welcome. 
  
 **WHEN**:
-Saturday, October 18, 2014
+Saturday, October 25, 2014
 10:30 am - 12:30 pm
  
 **WHERE**:
