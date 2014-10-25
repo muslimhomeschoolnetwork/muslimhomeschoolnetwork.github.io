@@ -6,7 +6,7 @@ end: "12:30"
 venue: Islamic Education Center (IEC)
 address: 659 Brea Canyon Rd, Ste 2, Walnut, CA 91789
 published: true
-expired: false
+expired: true
 ---
 **WHAT**:
 Workshop with Montessori Expert Barbara Bondurant
