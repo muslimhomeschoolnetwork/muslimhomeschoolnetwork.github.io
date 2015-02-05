@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: How to choose good reading material: Part II- Fiction
+title: "How to choose good reading material: Part II- Fiction"
 author: Laura El Alam
 ---
 
