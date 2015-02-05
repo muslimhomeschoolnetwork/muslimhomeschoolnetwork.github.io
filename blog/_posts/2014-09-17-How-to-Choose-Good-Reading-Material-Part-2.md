@@ -1,3 +1,8 @@
+---
+layout: blog
+title: How to choose good reading material: Part II- Fiction
+author: Laura El Alam
+---
 #Part II -- Fiction
 
 Does fiction belong on your family's bookshelf? Is it educational? If so, what kind of fiction is good for Muslim kids to read?  
