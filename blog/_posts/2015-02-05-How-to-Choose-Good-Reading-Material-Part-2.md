@@ -14,7 +14,9 @@ An article written by Jonathan Gottschall for The Boston Globe on April 29, 2012
 Here are some outstanding excerpts from Mr. Gottschall's piece:
 
 "The more deeply we are cast under a story’s spell, the more potent its influence. In fact, fiction seems to be more effective at changing beliefs than nonfiction, which is designed to persuade through argument and evidence. Studies show that when we read nonfiction, we read with our shields up. We are critical and skeptical. But when we are absorbed in a story, we drop our intellectual guard. We are moved emotionally, and this seems to make us rubbery and easy to shape."
+
 "So those who are concerned about the messages in fiction — whether they are conservative or progressive — have a point. Fiction is dangerous because it has the power to modify the principles of individuals and whole societies."
+
 "But fiction is doing something that all political factions should be able to get behind. Beyond the local battles of the culture wars, virtually all storytelling, regardless of genre, increases society’s fund of empathy and reinforces an ethic of decency that is deeper than politics."
 
 Knowing that fiction can influence readers so persuasively, we parents want to make sure the books our kids read are mostly positive. Here are some criteria I look for in a book:
