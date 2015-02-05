@@ -9,13 +9,13 @@ author: Laura El Alam
 
 Does fiction belong on your family's bookshelf? Is it educational? If so, what kind of fiction is good for Muslim kids to read?  
 Many avid readers (myself included) will say that fiction is a wonderful way to explore, imagine, and escape.  Fiction is entertaining and mood-altering.  At its best it can be educational and transformative.  At its worst, it can be complete fluff.  Fiction can teach valuable lessons or instill harmful ideas.  No doubt about it, fiction is powerful.  That power can be a little frightening to parents who are eager to keep their children on the Straight Path.
-An article written by Jonathan Gottschall for The Boston Globe on April 29, 2012 makes some amazing and thought-provking points about fiction.  I encourage parents to read the entire article [here.](http://www.bostonglobe.com/ideas/2012/04/28/why-fiction-good-for-you-how-fiction-changes-your-world/nubDy1P3viDj2PuwGwb3KO/story.html) 
+An article written by Jonathan Gottschall for The Boston Globe on April 29, 2012 makes some amazing and thought-provoking points about fiction.  I encourage parents to read the entire article [here.](http://www.bostonglobe.com/ideas/2012/04/28/why-fiction-good-for-you-how-fiction-changes-your-world/nubDy1P3viDj2PuwGwb3KO/story.html) 
 
 Here are some outstanding excerpts from Mr. Gottschall's piece:
 
-	"The more deeply we are cast under a story’s spell, the more potent its influence. In fact, fiction seems to be more effective at changing beliefs than nonfiction, which is designed to persuade through argument and evidence. Studies show that when we read nonfiction, we read with our shields up. We are critical and skeptical. But when we are absorbed in a story, we drop our intellectual guard. We are moved emotionally, and this seems to make us rubbery and easy to shape."
-	"So those who are concerned about the messages in fiction — whether they are conservative or progressive — have a point. Fiction is dangerous because it has the power to modify the principles of individuals and whole societies."
-	"But fiction is doing something that all political factions should be able to get behind. Beyond the local battles of the culture wars, virtually all storytelling, regardless of genre, increases society’s fund of empathy and reinforces an ethic of decency that is deeper than politics."
+"The more deeply we are cast under a story’s spell, the more potent its influence. In fact, fiction seems to be more effective at changing beliefs than nonfiction, which is designed to persuade through argument and evidence. Studies show that when we read nonfiction, we read with our shields up. We are critical and skeptical. But when we are absorbed in a story, we drop our intellectual guard. We are moved emotionally, and this seems to make us rubbery and easy to shape."
+"So those who are concerned about the messages in fiction — whether they are conservative or progressive — have a point. Fiction is dangerous because it has the power to modify the principles of individuals and whole societies."
+"But fiction is doing something that all political factions should be able to get behind. Beyond the local battles of the culture wars, virtually all storytelling, regardless of genre, increases society’s fund of empathy and reinforces an ethic of decency that is deeper than politics."
 
 Knowing that fiction can influence readers so persuasively, we parents want to make sure the books our kids read are mostly positive. Here are some criteria I look for in a book:
 
