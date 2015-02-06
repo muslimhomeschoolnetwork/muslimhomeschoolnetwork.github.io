@@ -1,3 +1,5 @@
 name: Muslim Homeschool Network
 markdown: redcarpet
 permalink: pretty
+gems:
+  - jekyll-sitemap
