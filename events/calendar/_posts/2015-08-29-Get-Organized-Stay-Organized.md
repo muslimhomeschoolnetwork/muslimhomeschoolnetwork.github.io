@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Get Organzied, Stay Organized
+title: Get Organized, Stay Organized
 start: "10:00"
 end: "13:00"
 venue: Mission Viejo, CA
