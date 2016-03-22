@@ -4,7 +4,7 @@ title: Get Organized, Stay Organized
 start: "10:00"
 end: "13:00"
 venue: Mission Viejo, CA
-expired: false
+expired: true
 published: true
 ---
 
