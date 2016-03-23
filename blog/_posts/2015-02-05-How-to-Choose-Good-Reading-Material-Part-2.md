@@ -5,11 +5,11 @@ author: Laura El Alam
 ---
 
 
-#Part II -- Fiction
+# Part II -- Fiction
 
 Does fiction belong on your family's bookshelf? Is it educational? If so, what kind of fiction is good for Muslim kids to read?  
 Many avid readers (myself included) will say that fiction is a wonderful way to explore, imagine, and escape.  Fiction is entertaining and mood-altering.  At its best it can be educational and transformative.  At its worst, it can be complete fluff.  Fiction can teach valuable lessons or instill harmful ideas.  No doubt about it, fiction is powerful.  That power can be a little frightening to parents who are eager to keep their children on the Straight Path.
-An article written by Jonathan Gottschall for The Boston Globe on April 29, 2012 makes some amazing and thought-provoking points about fiction.  I encourage parents to read the entire article [here.](http://www.bostonglobe.com/ideas/2012/04/28/why-fiction-good-for-you-how-fiction-changes-your-world/nubDy1P3viDj2PuwGwb3KO/story.html) 
+An article written by Jonathan Gottschall for The Boston Globe on April 29, 2012 makes some amazing and thought-provoking points about fiction.  I encourage parents to read the entire article [here.](http://www.bostonglobe.com/ideas/2012/04/28/why-fiction-good-for-you-how-fiction-changes-your-world/nubDy1P3viDj2PuwGwb3KO/story.html)
 
 Here are some outstanding excerpts from Mr. Gottschall's piece:
 
@@ -21,13 +21,13 @@ Here are some outstanding excerpts from Mr. Gottschall's piece:
 
 Knowing that fiction can influence readers so persuasively, we parents want to make sure the books our kids read are mostly positive. Here are some criteria I look for in a book:
 
-####1. A good, clear moral.  
+#### 1. A good, clear moral.  
 Even if the story contains some bad characters who make unwise choices, is there a good, clear moral to the story? Will my children easily recognize the life lesson that is meant to be taught, or is it too ambiguous?  Does the life lesson agree with our Islamic values?
-####2. An admirable protagonist.  
+#### 2. An admirable protagonist.  
 A protagonist who is basically good and who, for the most part, reflects my family's values. If my child is going to relate to a hero of a book and get immersed in his fictional world, we want to make sure that hero is someone we want our child looking up to and emulating. No protagonist will be perfect, but he or she should basically be a positive role model.
-####3. A clearly evil antagonist.  
+#### 3. A clearly evil antagonist.  
 Young children cannot handle ambiguity, so the bad guy should be someone who is obviously, consistently bad. By the end of the story, he should be punished or reprimanded, or his character should change for the better, so that young readers learn the consequences of bad behavior. If he is rewarded for bad behavior, or if it is not clear whether he is bad or good, that gives confusing messages to youngsters who are learning right from wrong.  
-####4. No "intolerably unwholesome" content. 
+#### 4. No "intolerably unwholesome" content.
 This is a judgment that all parents will have to make for themselves, based on their own standards. I say "intolerably unwholesome" because there are some un-Islamic things we might tolerate in a book (for instance, the mention of the words "girlfriends" or "boyfriends" in a book with no details about the relationships), and there are other, major things that we simply will not allow (like graphic romantic/sexual scenes or sadistic violence, for instance). The criteria for "tolerable" and "intolerable" might differ a bit from family to family. In an ideal world, all our kids' books would be wholesome and Islamic in nature, but that is certainly not the case. Popular, secular books for pre-teens and teens are particularly rife with un-Islamic references. Dating, alcohol and drug use, violence, and foul language can almost always be found, to some degree, in books for older kids. Our job as parents is to decide whether or not to allow our child to read the book. What if our child is begging to read it?  One option is to read out loud to them, skipping the inappropriate parts. If the idea of reading aloud to older kids seems strange or unnecessary, check out this excellent [article](http://www.rif.org/us/literacy-resources/articles/reading-aloud-to-your-child.htm) by educator and author Jim Trelease.
 
 Oftentimes there are parts of the book and issues that are raised that we need to discuss with our teens.  We can answer any questions they have and explain the proper Islamic perspective.  Books can be a great conversation starter and can help bring up topics our kids might be too shy to ask about.
@@ -38,7 +38,7 @@ For more helpful articles about choosing good books and motivating young readers
 
 Finally, I would like to offer my own family's list of favorite juvenile fiction. Other than a few of the books (marked with an asterisk) I have read and approved all of them, based on my own criteria, which the knowledge that I would need to discuss some of the topics with my kids. My thirteen-year-old son and/or eleven year-old daughter have read the books marked with asterisks. I approved these books after reading reviews of them and discussing some of the questionable material with my kids. If you have any concerns about the suitability of a book, please do look up another parent's review, or read the books for yourself.
 
-###Books for Early Readers:
+### Books for Early Readers:
 
 The Magic Treehouse series by Mary Pope Osborne  
 A to Z Mysteries series by Ron Roy  
@@ -48,7 +48,7 @@ The Chocolate Touch by Patrick Skene Catling
 The Arthur Chapter Books series by Marc Brown  
 Nate the Great series by Marjorie Weinman Sharmat  
 
-###Books for Intermediate Readers:
+### Books for Intermediate Readers:
 
 The American Girl series by various authors  
 Mrs. Frisby and the Rats of NIMH by Robert C. O'Brien  
@@ -73,7 +73,7 @@ Charlie and the Chocolate Factory by Roald Dahl
 Kensuke's Kingdom by Michael Morpurgo  
 the Max and Maddy series and the Harriet Bean series by Alexander McCall Smith  
 
-###Books for Teens:
+### Books for Teens:
 
 The Harry Potter series by J.K. Rowling  
 The Ranger's Apprentice series and The Brotherband Chronicles by John A. Flanagan *  

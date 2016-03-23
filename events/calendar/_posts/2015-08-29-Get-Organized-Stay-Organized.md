@@ -1,9 +1,9 @@
 ---
 layout: event
-title: Get Organized, Stay Organized
+title: "Get Organized, Stay Organized"
 start: "10:00"
 end: "13:00"
-venue: Mission Viejo, CA
+venue: "Mission Viejo, CA"
 expired: true
 published: true
 ---
@@ -22,4 +22,4 @@ Live presentation will commence at 11am, Insha'Allah.
 
 ####You must register for this event [HERE](https://docs.google.com/forms/d/1YtgsYbU0ZBOJ-uAIfelNb65omhexJid9POpu2e60bG0/viewform) no later than Wednesday, August 26, 2015.
 
-<img src="https://cloud.githubusercontent.com/assets/7043355/9429728/e975543c-498f-11e5-9a97-8d45d67fed45.jpg"> 
+<img src="https://cloud.githubusercontent.com/assets/7043355/9429728/e975543c-498f-11e5-9a97-8d45d67fed45.jpg">

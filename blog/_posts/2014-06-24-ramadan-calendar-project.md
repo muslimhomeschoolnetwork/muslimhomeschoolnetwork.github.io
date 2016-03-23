@@ -7,7 +7,7 @@ This a Ramadan Calendar project that Sr. Hana did recently. The supplies and ins
 
 Have fun crafting!
 
-###Supplies:
+### Supplies:
 
 * The wooden letters/numbers are from [Craft Cuts](www.craftcuts.com) specifically this [page](http://www.craftcuts.com/baltic-birch-wooden-numbers.html). (I ordered 1 inch letters/numbers at 1/8 inch thick with no paper template, in the comment box choose "offset" for bold or "no offset" for regular lettering. The calendar that doesn't have "Ramadan Mubarak on it yet has no offset numbers) (each order is custom so give it about 2 weeks for delivery)
 * 100% wool felt from [A Child's Dream](www.achildsdream.com) specially this [page](http://www.achildsdream.com/wool-felt/). (Choose from any of the bundles: summer, fall, etc. this felt will become your pockets on the calendar, you'll have enough felt to make several calendars this way if each pocket is a different color, or at least 2 calendars if you buy just one bundle.) You can buy acetate felt from Joann's and Michael's for a fraction of the cost.
@@ -19,7 +19,7 @@ Have fun crafting!
 * Glue (any white glue will work, but I like [Tombow Mono Liquid Glue](http://tombowusa.com/mono-aqua-liquid-glue.html))
 * Wooden star embellishments by [Studio Calico](http://www.twopeasinabucket.com/shop/studio-calico/127143-classic-calico-vol-2-tiny-stars-wood-veneer/)
 
-###Instructions:
+### Instructions:
 
 1. Cut 30 pockets to 2 7/8 wide by 21/2" tall.
 2. Fold over the top 2-3 inches of the 18x18 felt backing to make insert for wooden dowel and sew a straight line across the top.
@@ -29,7 +29,7 @@ Have fun crafting!
 6. Glue letters and numbers.
 7. insert dowel and hang.
 
-###What do you fill the pockets with? I have a couple non-candy ideas:
+### What do you fill the pockets with? I have a couple non-candy ideas:
 1. We will have 30 sahaba cards with highlights from a sahaba's life, you have to guess who it is (answer on back).
 2. Photo and journaling (good gift for grandma).
 3. Project idea in each pocket-activity cards: sadaqa jars, paper chains, etc.

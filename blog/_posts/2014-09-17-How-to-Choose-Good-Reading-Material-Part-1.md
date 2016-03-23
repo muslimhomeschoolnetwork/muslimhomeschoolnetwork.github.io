@@ -1,28 +1,28 @@
 ---
 layout: blog
-title: How to choose good reading material -- a brief guide for the Muslim homeschooler 
+title: How to choose good reading material -- a brief guide for the Muslim homeschooler
 author: Laura El Alam
 ---
 
-##Part I-Non-Fiction
+## Part I-Non-Fiction
 
-We all know that reading is immensely important to our children's education. In this Information Age, however, we have such a wealth of material to choose from--both printed and online-- that it can be difficult to narrow down our options and choose what is really beneficial.  Since homeschooling parents have quite enough on their plates, this brief guide is intended to provide busy parents with a bit of direction when choosing reading material for their children. 
+We all know that reading is immensely important to our children's education. In this Information Age, however, we have such a wealth of material to choose from--both printed and online-- that it can be difficult to narrow down our options and choose what is really beneficial.  Since homeschooling parents have quite enough on their plates, this brief guide is intended to provide busy parents with a bit of direction when choosing reading material for their children.
 
 As Muslim home educators, one of our chief priorities is instilling and promoting Islamic values. One of the best ways to do this is to read books and articles that address Islamic topics. The body of Islamic literature for children is growing and improving but still does not have the breadth and sophistication of non-Islamic literature.  However, several MHN members have discovered some inspiring Islamic-themed books and have listed them in a Google document.  The list, which all members are encouraged to use and contribute to, can be found [here](https://docs.google.com/spreadsheets/d/1qfXjdB2Mtnk1d8PjsRsek7xpQUA0J4LcRC8aVPzzfL8/edit#gid=0).                 
 
 As with any written work, Islamic compositions are best comprehended when parents and children discuss them together. Parents can ask questions, catered to their child's age and ability, to enable deeper comprehension and retention. Some thought-provoking questions might be:
 
-\*What do you think the moral of this story (or the main point of this article) is?
+ * What do you think the moral of this story (or the main point of this article) is?
 
-\*(while stopping at a critical moment in the plot) What do you think will happen next in the story?
+ * (while stopping at a critical moment in the plot) What do you think will happen next in the story?
 
-\*If you wrote a sequel to this story, what would it be about?
+ * If you wrote a sequel to this story, what would it be about?
 
-\*Which characters in this story display good Islamic manners?  Which do not?
+ * Which characters in this story display good Islamic manners?  Which do not?
 
-\*What would you do in this character's situation?
+ * What would you do in this character's situation?
 
-\*Does this article relate to your life?  Why or why not?
+ * Does this article relate to your life?  Why or why not?
 
 In addition to books, websites like [www.suhaibwebb.com](www.suhaibwebb.com), [www.muslimmatters.org](www.muslimmatters.org), and [www.islamicity.com](www.islamicity.com) have numerous well-written articles on Islamic topics. These pieces can be a great starting point for lessons and discussions about the deen.  Of course, some articles on these sites are geared more towards adult readers, so parents are advised to pick and choose which items they want their child to read, rather than directing the child blindly to the website.
 
