@@ -2,7 +2,8 @@
 layout: blog
 title: Order Organic Medjool Dates
 ---
-##Purchase your Ramadan Dates Now from MHN
+
+# Purchase your Ramadan Dates Now from MHN
 
 <img src="https://cloud.githubusercontent.com/assets/7043355/15100353/11a8255a-1524-11e6-9dee-8fed45355ce6.JPG" width="200px" />
 <img src="https://cloud.githubusercontent.com/assets/7043355/15100356/27dd8be4-1524-11e6-8416-ef3797b40d3e.JPG" width="200px" />
