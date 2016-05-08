@@ -1,4 +1,3 @@
-
 ---
 layout: blog
 title: Order Organic Medjool Dates
