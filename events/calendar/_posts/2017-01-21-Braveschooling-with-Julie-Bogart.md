@@ -9,22 +9,33 @@ expired: false
 published: true
 ---
 
-Muslim Homeschool Network (MHN) presents:
+##Braveschooling with Julie Bogart
 
-##BRAVESCHOOLING WITH JULIE BOGART!!
-
-Julie is coming to California for a one-day writing and homeschooling workshop. 
-
-$79/PERSON
-
-Keep your eyes open for more flyer and more details.
-
+WHO:
 Open to all homeschoolers! Please leave children home with a loved one. Nursing babies welcome.
 
-Seats are extremely limited! Reserve your spot today!
+WHAT:
+A one-day homeschooling & writing seminar with JULIE BOGART! Detailed program coming soon!
 
-REGISTER [HERE](https://form.jotform.com/63160503697154)
+WHEN: 
+Saturday, January 21st, 2017
+9:00 AM-4:00 PM
 
-*Inspire Charter School families can use their funds by selecting "Inspire Funding" upon registration. No purchase orders necessary.*
+WHERE: 
+California Islamic University
+598 S State College Blvd, Fullerton, CA 92831
 
-*Brave Writer is non-sectarian. Our instructors come from a variety of religious and non-religious backgrounds and so do our students. We do not promote one specific view. Because we work in the homeschooling world, we are aware of the importance of religious faith to many of our students. We do not seek to shape or direct the content of a student's writing or worldview. All worldviews, belief systems, and religious perspectives are honored and protected. The writer is guided in finding the best words and formats to communicate his or her worldview and/or beliefs powerfully, and with panache.
+PAYMENT: 
+$79/PERSON, Register [here](https://form.jotform.com/63160503697154)
+
+Please make sure that your registration went through by ensuring that you were prompted to the PayPal page and completed your payment. That is the only way to guarantee a spot.
+
+Inspire Charter School families can use their funds by selecting “Inspire Funding” upon registration. No purchase orders necessary.
+
+FOOD:
+This event will be a “Bring Your Own Lunch” event, so please bring a healthy lunch to enjoy.
+
+During lunch we will be having a POETRY TEATIME WITH JULIE! She will be reading to us and we will be able to reflect on this LIVE with Julie while enjoying some delicious tea and snacks provided by MHN.
+
+QUESTIONS?
+Please contact Angie at 714-679-9890 or Shahnila at 951-283-7254 for more information.
