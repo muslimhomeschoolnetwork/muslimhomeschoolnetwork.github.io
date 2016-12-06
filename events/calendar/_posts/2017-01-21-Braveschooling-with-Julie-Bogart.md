@@ -8,7 +8,8 @@ address: "598 S. State College, Fullerton, California, 92831"
 expired: false
 published: true
 ---  
-![braveschooling with julie bogart 2](https://cloud.githubusercontent.com/assets/7043355/20945150/f5c177f4-bbba-11e6-9c6c-66a0b3975551.jpeg)    
+[braveschooling with julie bogart 2](https://cloud.githubusercontent.com/assets/7043355/20945150/f5c177f4-bbba-11e6-9c6c-66a0b3975551.jpeg)    
+
 Date: Saturday, January 21, 2017   
 Time: 9:00 am - 5:00 pm   
 Venue: California Islamic University   
