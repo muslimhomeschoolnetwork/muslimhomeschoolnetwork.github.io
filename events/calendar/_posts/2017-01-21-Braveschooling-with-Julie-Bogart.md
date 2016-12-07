@@ -2,7 +2,7 @@
 layout: event
 title: "Braveschooling with Julie Bogart"
 start: "09:00"
-end: "16:00"
+end: "17:00"
 venue: "California Islamic University"
 address: "598 S. State College, Fullerton, California, 92831"
 expired: false
@@ -20,9 +20,11 @@ Address: 598 S. State College, Fullerton, California, 92831
 WHO: Open to all homeschoolers! Please leave children home with a loved one. Nursing babies welcome.   
 WHAT: A one-day homeschooling & writing seminar with JULIE BOGART!   Detailed program coming soon!   
 WHEN: Saturday, January 21st, 2017 9:00 AM-4:00 PM   
-WHERE: California Islamic University 598 S State College Blvd, Fullerton, CA 92831   
-PAYMENT: $79/PERSON    
->>> Register [here](https://form.jotform.com/63160503697154) <<<   
+WHERE: California Islamic University 598 S State College Blvd, Fullerton, CA 92831    
+PAYMENT: $79/PERSON   
+*All tickets are nonrefundable.   
+
+Register [here](https://form.jotform.com/63160503697154)  
 (Please make sure that your registration went through by ensuring that you were prompted to the PayPal page and completed your payment. That is the only way to guarantee a spot.)
 
 Inspire Charter School families can use their funds by selecting “Inspire Funding” upon registration. No purchase orders necessary.
