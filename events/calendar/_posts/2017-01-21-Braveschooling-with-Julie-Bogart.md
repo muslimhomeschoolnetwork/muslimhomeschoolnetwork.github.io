@@ -33,7 +33,8 @@ Inspire Charter School families can use their funds by selecting “Inspire Fund
 
 ![poetrytime](https://cloud.githubusercontent.com/assets/7043355/20945175/16b33556-bbbb-11e6-9d98-f77ba4acaabf.jpg)
 
-**POETRY TEATIME WITH JULIE!   **
+**POETRY TEATIME WITH JULIE!**
+
 During lunch, we will be having a POETRY TEATIME WITH JULIE! She will be reading to us and we will be able to reflect with Julie LIVE while enjoying some delicious tea and snacks provided by MHN.
 
 ![juliebogart](https://cloud.githubusercontent.com/assets/7043355/20945108/ca6e42da-bbba-11e6-94c1-d62b4e0bb8cd.jpg)
