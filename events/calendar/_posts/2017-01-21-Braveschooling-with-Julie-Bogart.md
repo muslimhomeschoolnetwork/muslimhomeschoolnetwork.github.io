@@ -10,6 +10,7 @@ published: true
 ---  
 <p align="center">
 <img src="https://cloud.githubusercontent.com/assets/7043355/20945150/f5c177f4-bbba-11e6-9c6c-66a0b3975551.jpeg" width="500px" />
+</p>
 
 **Date:** Saturday, January 21, 2017   
 **Time:** 9:00 am - 5:00 pm   
@@ -53,6 +54,7 @@ Your child struggles to get words on the page, yet you feel guilty about offeri
 
 … and more!   
 
+<p align="center">
 Reserve your spot today! Register [here](https://form.jotform.com/63160503697154)!
 </p>
 
