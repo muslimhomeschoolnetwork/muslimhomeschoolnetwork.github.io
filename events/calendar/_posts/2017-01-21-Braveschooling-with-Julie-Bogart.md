@@ -16,7 +16,7 @@ published: true
 **Venue:** California Islamic University   
 **Address:** 598 S. State College, Fullerton, California, 92831   
 
-<img src="https://cloud.githubusercontent.com/assets/7043355/20945194/234a9f8e-bbbb-11e6-82c4-0f2c75e15587.jpg" width="300px" />
+<img src="https://cloud.githubusercontent.com/assets/7043355/20945194/234a9f8e-bbbb-11e6-82c4-0f2c75e15587.jpg" width="300px" />   
 
 **WHO:** Open to all homeschoolers! Please leave children home with a loved one. Nursing babies welcome.   
 **WHAT:** A one-day homeschooling & writing seminar with JULIE BOGART!   Detailed program coming soon!   
