@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Our Committee
+title: MHN Committee
 published: true
 ---
 
