@@ -2,7 +2,6 @@
 layout: blog
 title: Hopes and Goals During the Quarantine
 ---
-Hopes and goals during the quarantine
 By Qanita Mohiuddin
 
 Alhamdulillahi Rabbil aalameen.  If something causes us to get closer to Allah (SWT) then it is certainly His MERCY, not a punishment.  This thought has been constantly resonating in my mind ever since the COVID-19 quarantine.  I strongly believe that it is up to us to make the best of our situation and there is khayr in everything--every “test”--that Allah(SWT) sends our way.  That being said, having been relieved of my day to day outdoor commitments, here’s a list of ideas I’ve either started implementing or plan on beginning this week and next, inshaAllah.
