@@ -24,7 +24,7 @@ The list of questions can be never-ending and paralyzing. But it doesn't have to
 
 Muslim families are free to use the resources our community has to offer, conveniently posted on our [website.](www.muslimhomeschoolnetwork.com)  We want you to succeed beyond expectations because we all have the same end goal: To please our Rabb, and safeguard our loved ones. Dear Sisters, let's wholeheartedly support each other to this ultimate end.
 
-To start your journey on the right foot, check out our [Quick Tips to Start Homeschooling](). Excellent, tried and tested advice by Muslim and non-Muslim bloggers, on how to keep the sanity and remove anxieties. Implementing these strategies from veteran home educators will go a long way in creating a positive atmosphere in your home.
+To start your journey on the right foot, check out our [Quick Tips to Start Homeschooling](http://www.muslimhomeschoolnetwork.com/blog/2020/03/21/5-quick-tips/). Excellent, tried and tested advice by Muslim and non-Muslim bloggers, on how to keep the sanity and remove anxieties. Implementing these strategies from veteran home educators will go a long way in creating a positive atmosphere in your home.
 
 We also have an inclusive and growing list of amazing resources, many that are absolutely free. (Yay! Freebies!) 
 
