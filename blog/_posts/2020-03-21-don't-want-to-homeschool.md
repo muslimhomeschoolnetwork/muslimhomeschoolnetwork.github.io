@@ -2,8 +2,6 @@
 layout: blog
 title: I don't want to homeschool, but...
 ---
-I didn't want to homeschool but…
-
 By Nishat Ahmed
 
 PANDEMIC! No, not the game, but reality. Everywhere you look, it's a mad scramble. Moms are especially stressed. The morning solitude is gone and suddenly YOU are responsible for your child(ren)'s day to day education. Mothers who work outside the home now have twice the load and half the time.
