@@ -2,7 +2,9 @@
 layout: blog
 title: How COVID-19 changed my homeschool day
 ---
-<img align="left" src="https://user-images.githubusercontent.com/7043355/77243425-16003e00-6bc7-11ea-9bed-b3eecf114c26.png" width="320px" />
+<img align="left" style="margin: 10px" src="https://user-images.githubusercontent.com/7043355/77243425-16003e00-6bc7-11ea-9bed-b3eecf114c26.png" width="320px" />
+
+
 
 Some of our members weigh in on how they are trying to make the most of staying at home.  
 
