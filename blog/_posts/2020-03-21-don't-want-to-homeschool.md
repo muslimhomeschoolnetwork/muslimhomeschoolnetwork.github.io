@@ -20,6 +20,7 @@ Lastly, accept that there are uncertainties abound. How can I keep my children o
 
 The list of questions can be never-ending and paralyzing. But it doesn't have to be. We don't promise answers because only you know what is best suited for your family and home situation. But we can help you reach clarity and confidence in your decisions. Take comfort in the fact that the overwhelming majority of families who start on the homeschooling path never look back.
 
+<p>
 <img align="left" style="margin: 10px" src="https://user-images.githubusercontent.com/7043355/77243417-054fc800-6bc7-11ea-9bae-70c0e07ee6e9.png" width="320px" />
 Your homeschooling journey might be a short detour, but we hope you walk away with a strong new support system, and with great experiences that will shape your years to come, insha Allah.
 
@@ -28,6 +29,8 @@ Muslim families are free to use the resources our community has to offer, conven
 To start your journey on the right foot, check out our [Quick Tips to Start Homeschooling](http://www.muslimhomeschoolnetwork.com/blog/2020/03/21/5-quick-tips/). Excellent, tried and tested advice by Muslim and non-Muslim bloggers, on how to keep the sanity and remove anxieties. Implementing these strategies from veteran home educators will go a long way in creating a positive atmosphere in your home.
 
 We also have an inclusive and growing list of amazing resources, many that are absolutely free. (Yay! Freebies!) 
+
+</p>
 
 [>> MASTER LIST OF RESOURCES FOR THE COVID-19 HOMESCHOOLERS <<](https://docs.google.com/spreadsheets/d/1Ev0eVZNSiAAQY5CeitQ-LbEu1Esn7ahgchPBIg_to_M/edit#gid=0)
 
