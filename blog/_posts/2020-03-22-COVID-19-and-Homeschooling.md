@@ -3,7 +3,7 @@ layout: blog
 title: COVID-19 and Homeschooling
 ---
 
-<img align="left" style="margin: 10px" src="https://user-images.githubusercontent.com/7043355/77235216-33a2b880-6b71-11ea-8e6c-344232c2b24f.png" width="320px" />
+<img align="left" style="margin: 10px" src="https://user-images.githubusercontent.com/7043355/77235216-33a2b880-6b71-11ea-8e6c-344232c2b24f.png" width="400px" />
 
   As-salamu alaikum,
 
