@@ -2,9 +2,10 @@
 layout: blog
 title: COVID-19 and Homeschooling
 ---
-<img src="https://user-images.githubusercontent.com/7043355/77235216-33a2b880-6b71-11ea-8e6c-344232c2b24f.png" width="320px" />
 
-As-salamu alaikum,
+<img align="left" src="https://user-images.githubusercontent.com/7043355/77235216-33a2b880-6b71-11ea-8e6c-344232c2b24f.png" width="320px" />
+
+  As-salamu alaikum,
 
 The COVID-19 outbreak and school closures have put many families in a completely new dynamic.  These are unprecedented times for all of us, especially for those who now have children at home from regular school. Muslim Homeschool Network (MHN) has compiled some tips and resources to continue our children’s education in light of the current environment, anxieties, and rapidly changing situation we are all facing. 
 
