@@ -2,7 +2,7 @@
 layout: blog
 title: How to "Socialize" in a time of Social Distancing
 ---
-<img align="left" src="https://user-images.githubusercontent.com/7043355/77243416-fd902380-6bc6-11ea-8846-c1f9ac559b53.png" width="320px" />
+<img align="left" style="margin: 10px" src="https://user-images.githubusercontent.com/7043355/77243416-fd902380-6bc6-11ea-8846-c1f9ac559b53.png" width="320px" />
  
 “And this is how you make your box!” exclaimed Farah* as she held up the folded calendar paper to a group of other girls who had gathered together for a virtual playdate. With the COVID-19 outbreak, and especially Orange County’s current order banning social gatherings of any size, online playdates are a welcome respite for children who are missing their friend time. 
  
