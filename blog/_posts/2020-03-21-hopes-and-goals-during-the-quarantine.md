@@ -32,4 +32,4 @@ Finally, my husband and I hope to use this downtime to potty train our toddler! 
 
 All plans aside;  we plan, Allah plans, and indeed Allah (SWT) is the Best of Planners.  May He guide us all to make the best choices for our families and communities and may He reward us all for our patience and efforts.  
 
-Author’s note: I am a homeschooling mother of six, and also serve as a homeschool teacher for Cabrillo Point Academy.  If you need assistance with anything homeschool related, please do not hesitate to contact me.  
+*Author’s note: I am a homeschooling mother of six, and also serve as a homeschool teacher for Cabrillo Point Academy.  If you need assistance with anything homeschool related, please do not hesitate to contact me.*  
