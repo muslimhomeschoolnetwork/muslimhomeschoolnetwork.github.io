@@ -20,7 +20,7 @@ Lastly, accept that there are uncertainties abound. How can I keep my children o
 
 The list of questions can be never-ending and paralyzing. But it doesn't have to be. We don't promise answers because only you know what is best suited for your family and home situation. But we can help you reach clarity and confidence in your decisions. Take comfort in the fact that the overwhelming majority of families who start on the homeschooling path never look back.
 
-<p>
+<p align="left">
 <img align="left" style="margin: 10px" src="https://user-images.githubusercontent.com/7043355/77243417-054fc800-6bc7-11ea-9bae-70c0e07ee6e9.png" width="320px" />
 Your homeschooling journey might be a short detour, but we hope you walk away with a strong new support system, and with great experiences that will shape your years to come, insha Allah.
 
