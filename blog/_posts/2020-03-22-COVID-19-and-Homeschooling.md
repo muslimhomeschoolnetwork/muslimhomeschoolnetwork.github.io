@@ -13,10 +13,10 @@ Please read our articles and blogs compiled by members, along with many more res
 
 ### Posts from our members:
 
-    * [I don't want to homeschool, but...](http://www.muslimhomeschoolnetwork.com/blog/2020/03/21/don't-want-to-homeschool/) 
-    * [Five quick tips for unexpected homeschoolers](http://www.muslimhomeschoolnetwork.com/blog/2020/03/21/5-quick-tips/)
-    * [How COVID-19 changed my homeschool day](http://www.muslimhomeschoolnetwork.com/blog/2020/03/21/how-covid-19-changed-my-homeschool-day/)
-    * [How to “socialize” in a time of “social distancing?”](http://www.muslimhomeschoolnetwork.com/blog/2020/03/21/how-to-socialize-in-a-time-of-social-distancing/)
+   * [I don't want to homeschool, but...](http://www.muslimhomeschoolnetwork.com/blog/2020/03/21/don't-want-to-homeschool/) 
+   * [Five quick tips for unexpected homeschoolers](http://www.muslimhomeschoolnetwork.com/blog/2020/03/21/5-quick-tips/)
+   * [How COVID-19 changed my homeschool day](http://www.muslimhomeschoolnetwork.com/blog/2020/03/21/how-covid-19-changed-my-homeschool-day/)
+   * [How to “socialize” in a time of “social distancing?”](http://www.muslimhomeschoolnetwork.com/blog/2020/03/21/how-to-socialize-in-a-time-of-social-distancing/)
 
 
 ### [>> MASTER LIST OF RESOURCES FOR THE COVID-19 HOMESCHOOLERS <<](https://docs.google.com/spreadsheets/d/1Ev0eVZNSiAAQY5CeitQ-LbEu1Esn7ahgchPBIg_to_M/edit?usp=sharing)
