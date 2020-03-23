@@ -23,7 +23,7 @@ The list of questions can be never-ending and paralyzing. But it doesn't have to
 <br/>
 <br/>
 
-<img align="left" style="margin: 10px" src="https://user-images.githubusercontent.com/7043355/77243417-054fc800-6bc7-11ea-9bae-70c0e07ee6e9.png" width="200px" />
+<img align="left" style="margin: 10px" src="https://user-images.githubusercontent.com/7043355/77243417-054fc800-6bc7-11ea-9bae-70c0e07ee6e9.png" width="150px" />
 Your homeschooling journey might be a short detour, but we hope you walk away with a strong new support system, and with great experiences that will shape your years to come, insha Allah.
 
 Muslim families are free to use the resources our community has to offer, conveniently posted on our [website.](www.muslimhomeschoolnetwork.com)  We want you to succeed beyond expectations because we all have the same end goal: To please our Rabb, and safeguard our loved ones. Dear Sisters, let's wholeheartedly support each other to this ultimate end.
