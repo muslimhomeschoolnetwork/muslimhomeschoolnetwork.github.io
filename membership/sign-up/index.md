@@ -2,7 +2,7 @@
 layout: default
 title: Join our mailing list
 category: Membership
-published: true
+published: false
 ---
 
 ## MHN Email List
