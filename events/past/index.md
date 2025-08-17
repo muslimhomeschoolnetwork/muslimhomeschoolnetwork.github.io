@@ -4,6 +4,24 @@ title: Past Events
 published: true
 ---
 
+Upcoming Events - Coming soon
+<a href="/membership/sign-up">Become a member for up-to-date information about events</a>
+
+### Past Events for 2024-2025
+
+* Homeschool Curriculum Show & Tell 
+* Homeschool 101 
+* Beginning of the year Family Picnic 
+* Monthly Chai times 
+* Prophetic Manners with Ust. Yafa Aweinat 
+* Food Drive with MHN Student Council Volunteer Club 
+* Connect & Create at Olive Community Services with MHN Student Council Volunteer Club  
+* Anti-bullying Workshop 
+* Eid Lunch Celebration with MHN Student Council 
+* Volunteer Club 
+* Q&A Session with Laura Kazan 
+* Screen Strong Summer Reading Challenge 
+
 ### Past Events for 2013-2014
 Alhamdulillah, MHN had a wide variety of events and activities organized for the Muslim homeschooling community this year. Here is a look at our year in review.
 
