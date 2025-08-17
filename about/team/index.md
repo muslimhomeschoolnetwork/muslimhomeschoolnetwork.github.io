@@ -7,7 +7,7 @@ title: MHN Committee
 
 **<ins>MHN Board</ins>**
 
-**Asma Ahmad**  
+**Asma Ahmad**   
 As a longtime homeschooling parent, Asma founded MHN to support the growing number of Muslim homeschooling families in the Southern California area and to educate the larger Muslim community about homeschooling as a viable alternative. 
 
 **Teyebeh Malakoutian**  
