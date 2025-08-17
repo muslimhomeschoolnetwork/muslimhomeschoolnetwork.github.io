@@ -20,4 +20,3 @@ Upcoming Events - Coming soon
 * Volunteer Club 
 * Q&A Session with Laura Kazan 
 * Screen Strong Summer Reading Challenge 
-
