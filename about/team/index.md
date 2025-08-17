@@ -3,8 +3,6 @@ layout: default
 title: MHN Committee
 ---
 
-**Our Team**  
-
 **<ins>MHN Board</ins>**
 
 **Asma Ahmad**   
