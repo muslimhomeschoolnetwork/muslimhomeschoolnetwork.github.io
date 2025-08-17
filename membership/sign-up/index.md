@@ -2,7 +2,7 @@
 layout: default
 title: Join our mailing list
 category: Membership
-published: 
+published: true
 ---
 
 To join MHN’s email list and WhatsApp Community, please send a request via [email](mailto:mhnsocal@gmail.com)
