@@ -18,7 +18,9 @@ With a deep passion for education and family, Shahnila strives to strengthen bon
 
 **Our Team**
 
+```
 **Angie Ellaboudy** - Community Admin
 **Saadia Parekh** - Community Admin
 **Isra Khan** - Community Admin and Membership Coordinator
-**Ranin Zubi** - Special Projects 
+**Ranin Zubi** - Special Projects
+```
