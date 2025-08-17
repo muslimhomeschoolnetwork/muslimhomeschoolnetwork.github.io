@@ -3,7 +3,7 @@ layout: default
 title: MHN Committee
 ---
 
-## **Our Team**  
+## Our Team  
 
 **<ins>MHN Board</ins>**
 
