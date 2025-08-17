@@ -16,7 +16,7 @@ Passionate about alternative education, Teyebeh co-founded MHN to help foster co
 **Shahnila Ahmad**  
 With a deep passion for education and family, Shahnila strives to strengthen bonds between parents and their children through homeschooling. 
 
-**Our Team**
+**<ins>Our Team</ins>**
 
 **Angie Ellaboudy** - Community Admin  
 **Saadia Parekh** - Community Admin  
